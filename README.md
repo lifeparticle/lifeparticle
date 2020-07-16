@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently writing articles on [Medium](https://medium.com/@lifeparticle)
+- 🌱 I’m currently learning Docker
+- 🤔 I’m looking for help with [Aurthohin](https://github.com/lifeparticle/Aurthohin)
+- 💬 Ask me about programming
+- 📫 How to reach me: mahbubzaman17@gmail.com
