@@ -24,7 +24,7 @@ SOFTWARE.
 Portions of the following files are licensed under the Apache License:
 
 	build_readme.py
-	.github/workflows/build.yml
+	.github/workflows/python-app.yml
 
 Copyright 2020 Simon Willison
 
