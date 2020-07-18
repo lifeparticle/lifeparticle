@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming
 - 📫 How to reach me: mahbubzaman17@gmail.com
 
-### On my blog
+### My latest Medium posts
 <!-- blog starts -->
 <!-- blog ends -->
 
