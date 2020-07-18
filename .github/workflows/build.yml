@@ -2,7 +2,6 @@ name: Build README
 
 on:
   push:
-    - master
   schedule:
     - cron:  '0 22 * * *'
 
