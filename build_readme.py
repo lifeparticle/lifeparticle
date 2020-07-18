@@ -9,14 +9,19 @@ root = pathlib.Path(__file__).parent.resolve()
 link = "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@lifeparticle"
 
 def replace_chunk(content, marker, chunk, inline=False):
-    r = re.compile(
-        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
-        re.DOTALL,
-    )
-    if not inline:
-        chunk = "\n{}\n".format(chunk)
-    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
-    return r.sub(chunk, content)
+	# build the regular expression pattern, DOTALL will match any character, including a newline
+	r = re.compile(
+		r"<!-- {} starts -->.*<!-- {} ends -->".format(marker, marker),
+		re.DOTALL,
+	)
+	# add newline before and after
+	if not inline:
+		chunk = "\n{}\n".format(chunk)
+	# build the final chunk by adding comments before and after the chunk
+	chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
+	print (chunk)
+	# replace matched string using pattern provided with the chunk
+	return r.sub(chunk, content)
 
 def fetch_blog_posts():
 	result = []
@@ -24,6 +29,7 @@ def fetch_blog_posts():
 	if response.status_code == 200:
 		posts = json.loads(response.text)["items"]
 		for post in posts:
+			# skip the comments
 			if len(post["categories"]) != 0:
 				result.append(post)
 	elif response.status_code == 404:
@@ -38,6 +44,7 @@ if __name__ == "__main__":
 		readme_contents = readme.open().read()
 		rewritten = readme_contents
 
+		# markdown formatting
 		posts_md = "\n".join(
 			["* [{title}]({link}) - {pubDate}".format(**post) for post in posts]
 		)
