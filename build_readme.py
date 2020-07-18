@@ -6,6 +6,7 @@ import re
 import os
 
 root = pathlib.Path(__file__).parent.resolve()
+link = "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@lifeparticle"
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -19,7 +20,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 def fetch_blog_posts():
 	result = []
-	response = requests.get("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@lifeparticle")
+	response = requests.get(link)
 	if response.status_code == 200:
 		posts = json.loads(response.text)["items"]
 		for post in posts:
@@ -40,7 +41,6 @@ if __name__ == "__main__":
 		posts_md = "\n".join(
 			["* [{title}]({link}) - {pubDate}".format(**post) for post in posts]
 		)
-		print (posts_md)
-		rewritten = replace_chunk(rewritten, "blog", posts_md)
 
+		rewritten = replace_chunk(rewritten, "blog", posts_md)
 		readme.open("w").write(rewritten)
