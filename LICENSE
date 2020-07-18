@@ -24,6 +24,7 @@ SOFTWARE.
 Portions of the following files are licensed under the Apache License:
 
 	build_readme.py
+	.github/workflows/build.yml
 
 Copyright 2000 Simon Willison
 
