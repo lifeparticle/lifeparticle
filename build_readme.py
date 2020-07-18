@@ -6,6 +6,7 @@ import re
 import os
 
 root = pathlib.Path(__file__).parent.resolve()
+# https://help.medium.com/hc/en-us/articles/214874118-RSS-feeds
 link = "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@lifeparticle"
 
 def replace_chunk(content, marker, chunk, inline=False):
