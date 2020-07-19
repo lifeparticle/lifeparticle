@@ -20,7 +20,6 @@ def replace_chunk(content, marker, chunk, inline=False):
 		chunk = "\n{}\n".format(chunk)
 	# build the final chunk by adding comments before and after the chunk
 	chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
-	print (chunk)
 	# replace matched string using pattern provided with the chunk
 	return r.sub(chunk, content)
 
