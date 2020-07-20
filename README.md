@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 <!-- blog ends -->
 
 
-<p align="center">
+<p align="right">
 <a href="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg"><img src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README"></a>
 </p>
