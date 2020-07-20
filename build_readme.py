@@ -31,6 +31,7 @@ def fetch_blog_posts():
 		for post in posts:
 			# skip the comments
 			if len(post["categories"]) != 0:
+				post["pubDate"] = post["pubDate"].split()[0]
 				result.append(post)
 	elif response.status_code == 404:
 		print('Not Found: ') + link
