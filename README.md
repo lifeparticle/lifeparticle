@@ -29,4 +29,7 @@ Here are some ideas to get you started:
 * [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b?source=rss-4430950b9342------2) - 2020-06-10 03:38:21
 <!-- blog ends -->
 
-![Build README](https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg)
+
+<p align="center">
+<a href="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg"><img src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README"></a>
+</p>
