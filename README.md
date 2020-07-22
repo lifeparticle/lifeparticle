@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ### My latest Medium posts
 
 <!-- blog starts -->
+* [17 Useful Ruby String Methods to Clean and Format Your Data](https://towardsdatascience.com/17-useful-ruby-string-methods-to-clean-and-format-your-data-9c9147ff87b9?source=rss-4430950b9342------2) - 2020-07-21
 * [How To Use Plotly.js for Data Visualization](https://towardsdatascience.com/how-to-use-plotly-js-for-data-visualization-46933e1bbd29?source=rss-4430950b9342------2) - 2020-07-16
 * [How to Run MySQL Using Docker](https://towardsdatascience.com/how-to-run-mysql-using-docker-ed4cebcd90e4?source=rss-4430950b9342------2) - 2020-07-15
 * [5 Movie Soundtracks That You Should Listen to Gain Laser Focus](https://medium.com/illumination/5-movie-soundtracks-that-you-should-listen-to-gain-laser-focus-85e024184a07?source=rss-4430950b9342------2) - 2020-06-16
