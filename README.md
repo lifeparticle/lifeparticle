@@ -24,9 +24,15 @@
 </tr>
 </table>
 
+<div align="center">
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- programming-quote starts -->
 “*We need to be super careful with AI. Potentially more dangerous than nukes.*” — **Elon Musk**
 <!-- programming-quote ends -->
+
+</div>
 
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
