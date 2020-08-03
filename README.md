@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </table>
 
 <!-- programming-quote starts -->
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed. -- Marijn Haverbeke
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities. -- Edsger W. Dijkstra
 <!-- programming-quote ends -->
 
 <p align="right">

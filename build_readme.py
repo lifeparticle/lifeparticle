@@ -5,10 +5,10 @@ import sys
 import re
 import os
 
-root = pathlib.Path(__file__).parent.resolve()
 # https://help.medium.com/hc/en-us/articles/214874118-RSS-feeds
-link = "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@lifeparticle"
-programming_quote_link = "https://programming-quotes-api.herokuapp.com/quotes/random"
+# https://github.com/skolakoda/programming-quotes-api 👏
+
+root = pathlib.Path(__file__).parent.resolve()
 
 def replace_chunk(content, marker, chunk, inline=False):
 	# build the regular expression pattern, DOTALL will match any character, including a newline
@@ -24,7 +24,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 	# replace matched string using pattern provided with the chunk
 	return r.sub(chunk, content)
 
-def fetch_blog_posts():
+def fetch_blog_posts(link):
 	result = []
 	response = requests.get(link)
 	if response.status_code == 200:
@@ -38,9 +38,9 @@ def fetch_blog_posts():
 		print('Not Found: ') + link
 	return result
 
-def fetch_programming_quotes():
+def fetch_programming_quotes(link):
 	result = ""
-	response = requests.get(programming_quote_link)
+	response = requests.get(link)
 	if response.status_code == 200:
 		posts = json.loads(response.text)
 		if "en" in posts and "author" in posts:
@@ -56,9 +56,9 @@ if __name__ == "__main__":
 
 	readme_contents = readme.open().read()
 	rewritten = readme_contents
-	rewritten = replace_chunk(rewritten, "programming-quote", fetch_programming_quotes())
+	rewritten = replace_chunk(rewritten, "programming-quote", fetch_programming_quotes("https://programming-quotes-api.herokuapp.com/quotes/random"))
 
-	posts = fetch_blog_posts()
+	posts = fetch_blog_posts("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@lifeparticle")
 	if len(posts) != 0:
 		# markdown formatting
 		posts_md = "\n".join(
