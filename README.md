@@ -29,6 +29,8 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- programming-quote starts -->
+“*Dealing with failure is easy: Work hard to improve.*”
+— **Alan Perlis**
 <!-- programming-quote ends -->
 
 </div>
