@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 </table>
 
 <!-- programming-quote starts -->
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack. -- George Carrette
 <!-- programming-quote ends -->
 
 <a href="https://medium.com/@lifeparticle"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
