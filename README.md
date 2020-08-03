@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 </table>
 
 <!-- programming-quote starts -->
-The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities. -- Edsger W. Dijkstra
 <!-- programming-quote ends -->
 
 <p align="right">
