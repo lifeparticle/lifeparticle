@@ -25,7 +25,6 @@
 </table>
 
 <!-- programming-quote starts -->
-“*A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.*” — **John von Neumann**
 <!-- programming-quote ends -->
 
 <p>
