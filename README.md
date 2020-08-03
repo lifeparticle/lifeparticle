@@ -39,10 +39,9 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-
-
-
-
+<!-- programming-quote starts -->
+Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed. -- Marijn Haverbeke
+<!-- programming-quote ends -->
 
 <p align="right">
 <a href="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg"><img src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README"></a>
