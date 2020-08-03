@@ -42,6 +42,10 @@ Here are some ideas to get you started:
 <!-- programming-quote starts -->
 <!-- programming-quote ends -->
 
+<a href="https://medium.com/@lifeparticle"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
+<a href="https://www.linkedin.com/in/mahbubzaman"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://stackoverflow.com/users/2611484/lifeparticle"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
+
 <p align="right">
 <a href="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg"><img src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README"></a>
 </p>
