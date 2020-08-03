@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </table>
 
 <!-- programming-quote starts -->
-Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed. -- Marijn Haverbeke
+The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them. -- Bill Gates
 <!-- programming-quote ends -->
 
 <p align="right">
