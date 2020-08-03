@@ -29,7 +29,8 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- programming-quote starts -->
-“*False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.*” — **Fred Brooks**
+“*I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.*”
+— **Tim Berners-Lee**
 <!-- programming-quote ends -->
 
 </div>
