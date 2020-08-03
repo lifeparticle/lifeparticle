@@ -29,7 +29,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- programming-quote starts -->
-“*First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.*” — **Fred Brooks**
+“*False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.*” — **Fred Brooks**
 <!-- programming-quote ends -->
 
 </div>
