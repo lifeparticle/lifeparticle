@@ -18,7 +18,7 @@
 
 ### Miscellaneous
 
-- 🤔 I’m looking for help with [Aurthohin](https://github.com/lifeparticle/Aurthohin)
+- 🤔 I’m looking for help with [Aurthohin][aurthohin]
 
 </td>
 </tr>
@@ -28,8 +28,14 @@
 <!-- programming-quote ends -->
 
 <p>
-	<a href="https://medium.com/@lifeparticle"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
-	<a href="https://www.linkedin.com/in/mahbubzaman"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-	<a href="https://stackoverflow.com/users/2611484/lifeparticle"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
-	<a href="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg"><img align="right" src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README"></a>
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="right" src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README">][build]
 </p>
+
+[medium]: https://medium.com/@lifeparticle
+[linkedin]: https://www.linkedin.com/in/mahbubzaman
+[stackoverflow]: https://stackoverflow.com/users/2611484/lifeparticle
+[build]: https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg
+[aurthohin]: https://github.com/lifeparticle/Aurthohin
