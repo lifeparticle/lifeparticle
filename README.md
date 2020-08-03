@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**lifeparticle/lifeparticle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -43,10 +28,9 @@ Here are some ideas to get you started:
 First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack. -- George Carrette
 <!-- programming-quote ends -->
 
-<a href="https://medium.com/@lifeparticle"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
-<a href="https://www.linkedin.com/in/mahbubzaman"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://stackoverflow.com/users/2611484/lifeparticle"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
-
-<p align="right">
-<a href="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg"><img src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README"></a>
+<p>
+	<a href="https://medium.com/@lifeparticle"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
+	<a href="https://www.linkedin.com/in/mahbubzaman"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+	<a href="https://stackoverflow.com/users/2611484/lifeparticle"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
+	<a href="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg"><img align="right" src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README"></a>
 </p>
