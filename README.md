@@ -29,8 +29,9 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- programming-quote starts -->
-“*Dealing with failure is easy: Work hard to improve.*”
-— **Alan Perlis**
+“*To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.*”
+
+— **Fred Brooks**
 <!-- programming-quote ends -->
 
 </div>
