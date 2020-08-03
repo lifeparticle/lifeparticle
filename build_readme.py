@@ -44,7 +44,7 @@ def fetch_programming_quotes(link):
 	if response.status_code == 200:
 		posts = json.loads(response.text)
 		if "en" in posts and "author" in posts:
-			result = "{} -- {}".format(posts["en"], posts["author"])
+			result = "“*{}*” — **{}**".format(posts["en"], posts["author"])
 		else:
 			result = "{} -- {}".format("Simplicity is prerequisite for reliability.", "Edsger W. Dijkstra")
 	elif response.status_code == 404:
