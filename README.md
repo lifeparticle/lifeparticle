@@ -25,7 +25,7 @@
 </table>
 
 <!-- programming-quote starts -->
-First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack. -- George Carrette
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience. -- Wayne Ratliff
 <!-- programming-quote ends -->
 
 <p>
