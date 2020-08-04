@@ -7,6 +7,7 @@
 ### My latest Medium posts
 
 <!-- blog starts -->
+* [How to Run MySQL and phpMyAdmin Using Docker](https://towardsdatascience.com/how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7?source=rss-4430950b9342------2) - 2020-08-03
 * [17 Useful Ruby String Methods to Clean and Format Your Data](https://towardsdatascience.com/17-useful-ruby-string-methods-to-clean-and-format-your-data-9c9147ff87b9?source=rss-4430950b9342------2) - 2020-07-21
 * [How To Use Plotly.js for Data Visualization](https://towardsdatascience.com/how-to-use-plotly-js-for-data-visualization-46933e1bbd29?source=rss-4430950b9342------2) - 2020-07-16
 * [How to Run MySQL Using Docker](https://towardsdatascience.com/how-to-run-mysql-using-docker-ed4cebcd90e4?source=rss-4430950b9342------2) - 2020-07-15
@@ -29,9 +30,9 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- programming-quote starts -->
-“*To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.*”
+“*Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.*”
 
-— **Fred Brooks**
+— **Marijn Haverbeke**
 <!-- programming-quote ends -->
 
 </div>
