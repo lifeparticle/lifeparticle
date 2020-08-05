@@ -30,9 +30,9 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- programming-quote starts -->
-“*Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.*”
+“*The Domain Name Server (DNS) is the Achilles heel of the Web.*”
 
-— **Marijn Haverbeke**
+— **Tim Berners-Lee**
 <!-- programming-quote ends -->
 
 </div>
