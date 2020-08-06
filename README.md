@@ -30,9 +30,9 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- programming-quote starts -->
-“*The Domain Name Server (DNS) is the Achilles heel of the Web.*”
+“*If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.*”
 
-— **Tim Berners-Lee**
+— **John von Neumann**
 <!-- programming-quote ends -->
 
 </div>
