@@ -30,9 +30,9 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- programming-quote starts -->
-“*If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.*”
+“*As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.*”
 
-— **John von Neumann**
+— **Gottfried Wilhelm Leibniz**
 <!-- programming-quote ends -->
 
 </div>
