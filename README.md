@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*When we don’t understand a process, we fall into magical thinking about results.*”<br/>— **Jef Raskin**
+“*If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.*”<br/>— **Joe Armstrong (programmer)**
 <!-- programming-quote ends -->
 
 <br/><br/>
