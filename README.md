@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="60%" valign="top">
 
 ### My latest Medium posts
 
@@ -15,7 +15,7 @@
 * [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b?source=rss-4430950b9342------2) <br/> <sub>2020-06-10</sub>
 <!-- blog ends -->
 </td>
-<td width="30%" valign="top">
+<td width="40%" valign="top">
 
 ### Miscellaneous
 
