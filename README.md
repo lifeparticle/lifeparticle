@@ -32,7 +32,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- programming-quote starts -->
-“*In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.*”<br/>— **Richard Stallman**
+“*When we don’t understand a process, we fall into magical thinking about results.*”<br/>— **Jef Raskin**
 <!-- programming-quote ends -->
 
 </div>
