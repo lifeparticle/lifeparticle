@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="70%" valign="top">
 
 ### My latest Medium posts
 
@@ -15,7 +15,7 @@
 * [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b?source=rss-4430950b9342------2) <br/> <sub>2020-06-10</sub>
 <!-- blog ends -->
 </td>
-<td width="40%" valign="top">
+<td width="30%" valign="top">
 
 ### Miscellaneous
 
@@ -32,14 +32,11 @@
 “*I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.*”<br/>— **Edsger W. Dijkstra**
 <!-- programming-quote ends -->
 
-<div>
-
+![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="right" src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README">][build]
-
-</div>
 
 [medium]: https://medium.com/@lifeparticle
 [linkedin]: https://www.linkedin.com/in/mahbubzaman
