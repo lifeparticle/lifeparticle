@@ -7,12 +7,18 @@
 ### My latest Medium posts
 
 <!-- blog starts -->
-* [How to Run MySQL and phpMyAdmin Using Docker](https://towardsdatascience.com/how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7?source=rss-4430950b9342------2) - 2020-08-03
-* [17 Useful Ruby String Methods to Clean and Format Your Data](https://towardsdatascience.com/17-useful-ruby-string-methods-to-clean-and-format-your-data-9c9147ff87b9?source=rss-4430950b9342------2) - 2020-07-21
-* [How To Use Plotly.js for Data Visualization](https://towardsdatascience.com/how-to-use-plotly-js-for-data-visualization-46933e1bbd29?source=rss-4430950b9342------2) - 2020-07-16
-* [How to Run MySQL Using Docker](https://towardsdatascience.com/how-to-run-mysql-using-docker-ed4cebcd90e4?source=rss-4430950b9342------2) - 2020-07-15
-* [5 Movie Soundtracks That You Should Listen to Gain Laser Focus](https://medium.com/illumination/5-movie-soundtracks-that-you-should-listen-to-gain-laser-focus-85e024184a07?source=rss-4430950b9342------2) - 2020-06-16
-* [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b?source=rss-4430950b9342------2) - 2020-06-10
+* [How to Run MySQL and phpMyAdmin Using Docker](https://towardsdatascience.com/how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7?source=rss-4430950b9342------2)
+<sub>2020-08-03</sub>
+* [17 Useful Ruby String Methods to Clean and Format Your Data](https://towardsdatascience.com/17-useful-ruby-string-methods-to-clean-and-format-your-data-9c9147ff87b9?source=rss-4430950b9342------2)
+<sub>2020-07-21</sub>
+* [How To Use Plotly.js for Data Visualization](https://towardsdatascience.com/how-to-use-plotly-js-for-data-visualization-46933e1bbd29?source=rss-4430950b9342------2)
+<sub>2020-07-16</sub>
+* [How to Run MySQL Using Docker](https://towardsdatascience.com/how-to-run-mysql-using-docker-ed4cebcd90e4?source=rss-4430950b9342------2)
+<sub>2020-07-15</sub>
+* [5 Movie Soundtracks That You Should Listen to Gain Laser Focus](https://medium.com/illumination/5-movie-soundtracks-that-you-should-listen-to-gain-laser-focus-85e024184a07?source=rss-4430950b9342------2)
+<sub>2020-06-16</sub>
+* [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b?source=rss-4430950b9342------2)
+<sub>2020-06-10</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
@@ -30,9 +36,9 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- programming-quote starts -->
-“*If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.*”
+“*With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.*”
 
-— **John von Neumann**
+— **Danny Hillis**
 <!-- programming-quote ends -->
 
 </div>

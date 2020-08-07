@@ -44,7 +44,7 @@ def fetch_programming_quotes(link):
 	if response.status_code == 200:
 		posts = json.loads(response.text)
 		if "en" in posts and "author" in posts:
-			result = "“*{}*”\n\n— **{}**".format(posts["en"], posts["author"])
+			result = "“*{}*”<br/>— **{}**".format(posts["en"], posts["author"])
 		else:
 			result = "{} -- {}".format("Simplicity is prerequisite for reliability.", "Edsger W. Dijkstra")
 	elif response.status_code == 404:
@@ -62,7 +62,7 @@ if __name__ == "__main__":
 	if len(posts) != 0:
 		# markdown formatting
 		posts_md = "\n".join(
-			["* [{title}]({link}) - {pubDate}".format(**post) for post in posts]
+			["* [{title}]({link}) <br/> <sub>{pubDate}</sub>".format(**post) for post in posts]
 		)
 
 		rewritten = replace_chunk(rewritten, "blog", posts_md)
