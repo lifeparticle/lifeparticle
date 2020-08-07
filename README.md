@@ -32,12 +32,14 @@
 “*If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.*”<br/>— **Joe Armstrong (programmer)**
 <!-- programming-quote ends -->
 
-<br/><br/>
+<div>
 
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="right" src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README">][build]
+
+</div>
 
 [medium]: https://medium.com/@lifeparticle
 [linkedin]: https://www.linkedin.com/in/mahbubzaman
