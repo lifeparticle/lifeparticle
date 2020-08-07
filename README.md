@@ -30,9 +30,9 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- programming-quote starts -->
-“*As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.*”
+“*People under pressure don’t work better; they just work faster.*”
 
-— **Gottfried Wilhelm Leibniz**
+— **Tom DeMarco**
 <!-- programming-quote ends -->
 
 </div>
