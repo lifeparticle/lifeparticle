@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.*”<br/>— **Jamie Zawinski**
+“*Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.*”<br/>— **Richard Stallman**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
