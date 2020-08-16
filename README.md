@@ -1,4 +1,4 @@
-### 👋 [![Hello](https://hello-kappa.vercel.app/api)](https://github.com/lifeparticle/Hello) 
+### 👋  Hello
 
 <table>
 <tr>
