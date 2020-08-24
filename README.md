@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.*”<br/>— **Charles Simonyi**
+“*I think the best way to supervise is by personal example and by frequent code reviews.*”<br/>— **Charles Simonyi**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
