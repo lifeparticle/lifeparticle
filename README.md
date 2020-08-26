@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!*”<br/>— **Fred Brooks**
+“*Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.*”<br/>— **Alan Perlis**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
