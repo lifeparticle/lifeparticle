@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.*”<br/>— **Ward Cunningham**
+“*Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.*”<br/>— **L. Peter Deutsch**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
