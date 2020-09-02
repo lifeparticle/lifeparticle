@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.*”<br/>— **Edsger W. Dijkstra**
+“*The way to arrest entropy in software is to refactor it.*”<br/>— **Joseph Yoder (computer scientist)**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
