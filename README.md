@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*The best way to predict the future is to invent it.*”<br/>— **Alan Kay**
+“*I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.*”<br/>— **Donald Knuth**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
