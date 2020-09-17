@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.*”<br/>— **Dennis Ritchie**
+“*If you have a procedure with 10 parameters, you probably missed some.*”<br/>— **Alan Perlis**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
