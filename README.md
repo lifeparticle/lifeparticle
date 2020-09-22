@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*In handling resources, strive to avoid disaster rather than to attain an optimum.*”<br/>— **Butler Lampson**
+“*If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.*”<br/>— **David Leinweber**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
