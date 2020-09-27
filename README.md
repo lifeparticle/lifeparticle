@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.*”<br/>— **Harlan Mills**
+“*In my second year in graduate school, I took a computer course and that was like lightening striking.*”<br/>— **Ted Nelson**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
