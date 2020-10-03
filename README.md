@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.*”<br/>— **Terry Winograd**
+“*If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.*”<br/>— **Linus Torvalds**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
