@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.*”<br/>— **Elon Musk**
+“*Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.*”<br/>— **Stan Kelly-Bootle**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
