@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.*”<br/>— **Stan Kelly-Bootle**
+“*The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.*”<br/>— **Terry Winograd**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
