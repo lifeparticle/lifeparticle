@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*A program that produces incorrect results twice as fast is infinitely slower.*”<br/>— **John Ousterhout**
+“*All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.*”<br/>— **Albert Einstein**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
