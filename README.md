@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*Cool URIs don't change.*”<br/>— **Tim Berners-Lee**
+“*Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.*”<br/>— **Alan Perlis**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
