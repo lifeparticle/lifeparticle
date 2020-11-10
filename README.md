@@ -29,7 +29,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programming-quote starts -->
-“*We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.*”<br/>— **Ellen Ullman**
+“*I'm doing a free operating system (just a hobby, won't be big and professional like GNU).*”<br/>— **Linus Torvalds**
 <!-- programming-quote ends -->
 
 ![output-onlinepngtools](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
