@@ -7,6 +7,7 @@
 ### My latest Medium posts
 
 <!-- blog starts -->
+* [Useful Ruby Array Methods to Manage Your Data](https://towardsdatascience.com/useful-ruby-array-methods-to-manage-your-data-4d2813c63ccf?source=rss-4430950b9342------2) <br/> <sub>2020-12-13</sub>
 * [How to Deploy a Ruby Serverless Function to Vercel](https://towardsdatascience.com/how-to-deploy-a-ruby-serverless-function-to-vercel-da8c3581f7c2?source=rss-4430950b9342------2) <br/> <sub>2020-12-08</sub>
 * [How to Run MySQL and phpMyAdmin Using Docker](https://towardsdatascience.com/how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7?source=rss-4430950b9342------2) <br/> <sub>2020-08-03</sub>
 * [17 Useful Ruby String Methods to Clean and Format Your Data](https://towardsdatascience.com/17-useful-ruby-string-methods-to-clean-and-format-your-data-9c9147ff87b9?source=rss-4430950b9342------2) <br/> <sub>2020-07-21</sub>
