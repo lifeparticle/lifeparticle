@@ -7,6 +7,7 @@
 ### My latest Medium posts
 
 <!-- blog starts -->
+* [An Introduction to Ruby Hash](https://towardsdatascience.com/an-introduction-to-ruby-hash-1c1c4b2dd905?source=rss-4430950b9342------2) <br/> <sub>2020-12-24</sub>
 * [Useful Ruby Array Methods to Manage Your Data](https://towardsdatascience.com/useful-ruby-array-methods-to-manage-your-data-4d2813c63ccf?source=rss-4430950b9342------2) <br/> <sub>2020-12-13</sub>
 * [How to Deploy a Ruby Serverless Function to Vercel](https://towardsdatascience.com/how-to-deploy-a-ruby-serverless-function-to-vercel-da8c3581f7c2?source=rss-4430950b9342------2) <br/> <sub>2020-12-08</sub>
 * [How to Run MySQL and phpMyAdmin Using Docker](https://towardsdatascience.com/how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7?source=rss-4430950b9342------2) <br/> <sub>2020-08-03</sub>
@@ -14,7 +15,6 @@
 * [How To Use Plotly.js for Data Visualization](https://towardsdatascience.com/how-to-use-plotly-js-for-data-visualization-46933e1bbd29?source=rss-4430950b9342------2) <br/> <sub>2020-07-16</sub>
 * [How to Run MySQL Using Docker](https://towardsdatascience.com/how-to-run-mysql-using-docker-ed4cebcd90e4?source=rss-4430950b9342------2) <br/> <sub>2020-07-15</sub>
 * [5 Movie Soundtracks That You Should Listen to Gain Laser Focus](https://medium.com/illumination/5-movie-soundtracks-that-you-should-listen-to-gain-laser-focus-85e024184a07?source=rss-4430950b9342------2) <br/> <sub>2020-06-16</sub>
-* [How to Mount a Directory Inside a Docker Container](https://towardsdatascience.com/how-to-mount-a-directory-inside-a-docker-container-4cee379c298b?source=rss-4430950b9342------2) <br/> <sub>2020-06-10</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
