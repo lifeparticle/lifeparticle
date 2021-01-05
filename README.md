@@ -7,6 +7,7 @@
 ### My latest Medium posts
 
 <!-- blog starts -->
+* [How to Connect to a Heroku Postgres Database With pgadmin4 Using Docker](https://towardsdatascience.com/how-to-connect-to-a-heroku-postgres-database-with-pgadmin4-using-docker-6ac1e423ae66?source=rss-4430950b9342------2) <br/> <sub>2021-01-04</sub>
 * [How to Run PostgreSQL Using Docker](https://towardsdatascience.com/how-to-run-postgresql-using-docker-15bf87b452d4?source=rss-4430950b9342------2) <br/> <sub>2020-12-30</sub>
 * [An Introduction to Ruby Hash](https://towardsdatascience.com/an-introduction-to-ruby-hash-1c1c4b2dd905?source=rss-4430950b9342------2) <br/> <sub>2020-12-24</sub>
 * [Useful Ruby Array Methods to Manage Your Data](https://towardsdatascience.com/useful-ruby-array-methods-to-manage-your-data-4d2813c63ccf?source=rss-4430950b9342------2) <br/> <sub>2020-12-13</sub>
