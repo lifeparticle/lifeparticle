@@ -7,6 +7,7 @@
 ### My latest Medium posts
 
 <!-- blog starts -->
+* [How to Deploy a Python Serverless Function to Vercel](https://towardsdatascience.com/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0?source=rss-4430950b9342------2) <br/> <sub>2021-01-07</sub>
 * [5 Useful Chrome Extensions for Programmers](https://medium.com/logic-gates/5-useful-chrome-extensions-for-programmers-427eaac57a71?source=rss-4430950b9342------2) <br/> <sub>2021-01-06</sub>
 * [How to Connect to a Heroku Postgres Database With pgadmin4 Using Docker](https://towardsdatascience.com/how-to-connect-to-a-heroku-postgres-database-with-pgadmin4-using-docker-6ac1e423ae66?source=rss-4430950b9342------2) <br/> <sub>2021-01-04</sub>
 * [How to Run PostgreSQL Using Docker](https://towardsdatascience.com/how-to-run-postgresql-using-docker-15bf87b452d4?source=rss-4430950b9342------2) <br/> <sub>2020-12-30</sub>
@@ -16,7 +17,6 @@
 * [How to Run MySQL and phpMyAdmin Using Docker](https://towardsdatascience.com/how-to-run-mysql-and-phpmyadmin-using-docker-17dfe107eab7?source=rss-4430950b9342------2) <br/> <sub>2020-08-03</sub>
 * [17 Useful Ruby String Methods to Clean and Format Your Data](https://towardsdatascience.com/17-useful-ruby-string-methods-to-clean-and-format-your-data-9c9147ff87b9?source=rss-4430950b9342------2) <br/> <sub>2020-07-21</sub>
 * [How To Use Plotly.js for Data Visualization](https://towardsdatascience.com/how-to-use-plotly-js-for-data-visualization-46933e1bbd29?source=rss-4430950b9342------2) <br/> <sub>2020-07-16</sub>
-* [How to Run MySQL Using Docker](https://towardsdatascience.com/how-to-run-mysql-using-docker-ed4cebcd90e4?source=rss-4430950b9342------2) <br/> <sub>2020-07-15</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
