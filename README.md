@@ -39,15 +39,9 @@
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 
 
-[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/ts-material-icons-svg@0.0.10/svg/baseline/explore.svg" />][website]
-[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img height="40" width="150" src="https://img.shields.io/badge/Linktree-9E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white" />][linktree]
 [<img align="right" src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README">][build]
 
-[website]: https://mahbub.ninja/
-[medium]: https://medium.com/@lifeparticle
-[linkedin]: https://www.linkedin.com/in/mahbubzaman
-[stackoverflow]: https://stackoverflow.com/users/2611484/lifeparticle
+[linktree]: https://linktr.ee/lifeparticle
 [build]: https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg
 [aurthohin]: https://github.com/lifeparticle/Aurthohin
