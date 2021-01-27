@@ -11,6 +11,7 @@ import os
 root = pathlib.Path(__file__).parent.resolve()
 
 def update_programmer_humor_img(name):
+	print(os.environ)
 	client_id = os.environ['CLIENT_ID']
 	client_secret = os.environ['CLIENT_SECRET']
 	client = ImgurClient(client_id, client_secret)
