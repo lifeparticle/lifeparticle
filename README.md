@@ -32,9 +32,9 @@
 </table>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
-<!-- programming-quote starts -->
-
-<!-- programming-quote ends -->
+<!-- programmer_humor_img starts -->
+<img height="24" width="24" src="https://i.imgur.com/05wcwhq.png">
+<!-- programmer_humor_img ends -->
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 

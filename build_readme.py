@@ -1,3 +1,4 @@
+from imgurpython import ImgurClient
 import requests
 import pathlib
 import json
@@ -6,9 +7,15 @@ import re
 import os
 
 # https://help.medium.com/hc/en-us/articles/214874118-RSS-feeds
-# https://github.com/skolakoda/programming-quotes-api 👏
 
 root = pathlib.Path(__file__).parent.resolve()
+
+def update_programmer_humor_img(name):
+	client_id = os.environ['CLIENT_ID']
+	client_secret = os.environ['CLIENT_SECRET']
+	client = ImgurClient(client_id, client_secret)
+	items = client.subreddit_gallery(name, sort='top', window='week', page=0)
+	return '<a href="{}"><img height="400" width="400" src="{}"></a>'.format(items[0].link, items[0].link)
 
 def replace_chunk(content, marker, chunk, inline=False):
 	# build the regular expression pattern, DOTALL will match any character, including a newline
@@ -38,25 +45,12 @@ def fetch_blog_posts(link):
 		print('Not Found: ') + link
 	return result
 
-def fetch_programming_quotes(link):
-	result = ""
-	response = requests.get(link)
-	if response.status_code == 200:
-		posts = json.loads(response.text)
-		if "en" in posts and "author" in posts:
-			result = "“*{}*”<br/>— **{}**".format(posts["en"], posts["author"])
-		else:
-			result = "{} -- {}".format("Simplicity is prerequisite for reliability.", "Edsger W. Dijkstra")
-	elif response.status_code == 404:
-		print('Not Found: ') + link
-	return result
-
 if __name__ == "__main__":
 	readme = root / "README.md"
 
 	readme_contents = readme.open().read()
 	rewritten = readme_contents
-	rewritten = replace_chunk(rewritten, "programming-quote", fetch_programming_quotes("https://programming-quotes-api.herokuapp.com/quotes/random"))
+	rewritten = replace_chunk(rewritten, "programmer_humor_img", update_programmer_humor_img("ProgrammerHumor"))
 
 	posts = fetch_blog_posts("https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@lifeparticle")
 	if len(posts) != 0:
