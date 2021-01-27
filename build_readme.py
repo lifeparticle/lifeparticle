@@ -11,12 +11,11 @@ import os
 root = pathlib.Path(__file__).parent.resolve()
 
 def update_programmer_humor_img(name):
-	print(os.environ)
 	client_id = os.environ['CLIENT_ID']
 	client_secret = os.environ['CLIENT_SECRET']
 	client = ImgurClient(client_id, client_secret)
 	items = client.subreddit_gallery(name, sort='top', window='week', page=0)
-	return '<a href="{}"><img height="400" width="400" src="{}"></a>'.format(items[0].link, items[0].link)
+	return '<a href="{}" target="_blank"><img height="400" width="400" src="{}"></a>'.format(items[0].link, items[0].link)
 
 def replace_chunk(content, marker, chunk, inline=False):
 	# build the regular expression pattern, DOTALL will match any character, including a newline
