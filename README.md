@@ -39,7 +39,7 @@
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 
 
-[<img height="40" width="150" src="https://img.shields.io/badge/Linktree-9E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white" />][linktree]
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
 [<img align="right" src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README">][build]
 
 [linktree]: https://linktr.ee/lifeparticle
