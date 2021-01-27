@@ -33,7 +33,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programmer_humor_img starts -->
-<a href="https://i.imgur.com/05wcwhq.png" target="_blank"><img height="400" width="400" src="https://i.imgur.com/05wcwhq.png"></a>
+<a href="https://i.imgur.com/VoVCH94.png" target="_blank"><img height="400" width="400" src="https://i.imgur.com/VoVCH94.png"></a>
 <!-- programmer_humor_img ends -->
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
