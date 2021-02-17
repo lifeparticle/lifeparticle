@@ -7,6 +7,7 @@
 ### My latest Medium posts
 
 <!-- blog starts -->
+* [How I Built a Self-Updating Blog Catalog Using a Bot — Part 2](https://levelup.gitconnected.com/how-i-built-a-self-updating-blog-catalog-using-a-bot-part-2-a67968be5f42?source=rss-4430950b9342------2) <br/> <sub>2021-02-16</sub>
 * [How I Built a Self-Updating Blog Catalog Using a Bot — Part 1](https://levelup.gitconnected.com/how-i-built-a-self-updating-blog-catalog-using-a-bot-part-1-bd7399ba1e4f?source=rss-4430950b9342------2) <br/> <sub>2021-02-11</sub>
 * [An Introduction to Linear Search](https://medium.com/logic-gates/an-introduction-to-linear-search-269e2038e952?source=rss-4430950b9342------2) <br/> <sub>2021-02-04</sub>
 * [How to Determine a Prime Number Efficiently](https://medium.com/logic-gates/how-to-determine-a-prime-number-efficiently-bca843c4d377?source=rss-4430950b9342------2) <br/> <sub>2021-02-02</sub>
@@ -16,7 +17,6 @@
 * [5 Useful Chrome Extensions for Programmers](https://medium.com/logic-gates/5-useful-chrome-extensions-for-programmers-427eaac57a71?source=rss-4430950b9342------2) <br/> <sub>2021-01-06</sub>
 * [How to Connect to a Heroku Postgres Database With pgadmin4 Using Docker](https://towardsdatascience.com/how-to-connect-to-a-heroku-postgres-database-with-pgadmin4-using-docker-6ac1e423ae66?source=rss-4430950b9342------2) <br/> <sub>2021-01-04</sub>
 * [How to Run PostgreSQL Using Docker](https://towardsdatascience.com/how-to-run-postgresql-using-docker-15bf87b452d4?source=rss-4430950b9342------2) <br/> <sub>2020-12-30</sub>
-* [An Introduction to Ruby Hash](https://towardsdatascience.com/an-introduction-to-ruby-hash-1c1c4b2dd905?source=rss-4430950b9342------2) <br/> <sub>2020-12-24</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
