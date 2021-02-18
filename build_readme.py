@@ -12,13 +12,16 @@ import os
 root = pathlib.Path(__file__).parent.resolve()
 
 def update_programmer_humor_img(name):
-	client_id = os.environ['CLIENT_ID']
-	client_secret = os.environ['CLIENT_SECRET']
-	client = ImgurClient(client_id, client_secret)
-	items = client.subreddit_gallery(name, sort='top', window='week', page=0)
-	#item = random.choice(items)
-	item = items[0]
-	return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="400" width="400" src="{}"></a>'.format(item.id, item.link)
+	try:
+		client_id = os.environ['CLIENT_ID']
+		client_secret = os.environ['CLIENT_SECRET']
+		client = ImgurClient(client_id, client_secret)
+		items = client.subreddit_gallery(name, sort='top', window='week', page=0)
+		#item = random.choice(items)
+		item = items[0]
+		return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="400" width="400" src="{}"></a>'.format(item.id, item.link)
+	except ImgurClientError as e:
+		print(e.error_message)
 
 def replace_chunk(content, marker, chunk, inline=False):
 	# build the regular expression pattern, DOTALL will match any character, including a newline
