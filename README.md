@@ -7,6 +7,7 @@
 ### My latest Medium posts
 
 <!-- blog starts -->
+* [An Introduction to Binary Search](https://medium.com/logic-gates/an-introduction-to-binary-search-7518db2b70b4?source=rss-4430950b9342------2) <br/> <sub>2021-02-26</sub>
 * [How I Built a Self-Updating Blog Catalog Using a Bot — Part 2](https://levelup.gitconnected.com/how-i-built-a-self-updating-blog-catalog-using-a-bot-part-2-a67968be5f42?source=rss-4430950b9342------2) <br/> <sub>2021-02-16</sub>
 * [How I Built a Self-Updating Blog Catalog Using a Bot — Part 1](https://levelup.gitconnected.com/how-i-built-a-self-updating-blog-catalog-using-a-bot-part-1-bd7399ba1e4f?source=rss-4430950b9342------2) <br/> <sub>2021-02-11</sub>
 * [An Introduction to Linear Search](https://medium.com/logic-gates/an-introduction-to-linear-search-269e2038e952?source=rss-4430950b9342------2) <br/> <sub>2021-02-04</sub>
@@ -16,7 +17,6 @@
 * [How to Deploy a Python Serverless Function to Vercel](https://towardsdatascience.com/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0?source=rss-4430950b9342------2) <br/> <sub>2021-01-07</sub>
 * [5 Useful Chrome Extensions for Programmers](https://medium.com/logic-gates/5-useful-chrome-extensions-for-programmers-427eaac57a71?source=rss-4430950b9342------2) <br/> <sub>2021-01-06</sub>
 * [How to Connect to a Heroku Postgres Database With pgadmin4 Using Docker](https://towardsdatascience.com/how-to-connect-to-a-heroku-postgres-database-with-pgadmin4-using-docker-6ac1e423ae66?source=rss-4430950b9342------2) <br/> <sub>2021-01-04</sub>
-* [How to Run PostgreSQL Using Docker](https://towardsdatascience.com/how-to-run-postgresql-using-docker-15bf87b452d4?source=rss-4430950b9342------2) <br/> <sub>2020-12-30</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
@@ -33,7 +33,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/ftVuAtg"><img height="400" width="400" src="https://i.imgur.com/ftVuAtg.png"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/SOjbtxh"><img height="400" width="400" src="https://i.imgur.com/SOjbtxh.png"></a>
 <!-- programmer_humor_img ends -->
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
