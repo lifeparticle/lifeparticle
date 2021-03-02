@@ -7,6 +7,7 @@
 ### My latest Medium posts
 
 <!-- blog starts -->
+* [How to Deploy a Node.js Serverless Function to Vercel](https://javascript.plainenglish.io/how-to-deploy-a-node-js-serverless-function-to-vercel-a0dc13cefa0e?source=rss-4430950b9342------2) <br/> <sub>2021-03-01</sub>
 * [An Introduction to Binary Search](https://medium.com/logic-gates/an-introduction-to-binary-search-7518db2b70b4?source=rss-4430950b9342------2) <br/> <sub>2021-02-26</sub>
 * [How I Built a Self-Updating Blog Catalog Using a Bot — Part 2](https://levelup.gitconnected.com/how-i-built-a-self-updating-blog-catalog-using-a-bot-part-2-a67968be5f42?source=rss-4430950b9342------2) <br/> <sub>2021-02-16</sub>
 * [How I Built a Self-Updating Blog Catalog Using a Bot — Part 1](https://levelup.gitconnected.com/how-i-built-a-self-updating-blog-catalog-using-a-bot-part-1-bd7399ba1e4f?source=rss-4430950b9342------2) <br/> <sub>2021-02-11</sub>
@@ -16,7 +17,6 @@
 * [How to Connect to a PostgreSQL Database With a Python Serverless Function](https://towardsdatascience.com/how-to-connect-to-a-postgresql-database-with-a-python-serverless-function-f5f3b244475?source=rss-4430950b9342------2) <br/> <sub>2021-01-11</sub>
 * [How to Deploy a Python Serverless Function to Vercel](https://towardsdatascience.com/how-to-deploy-a-python-serverless-function-to-vercel-f43c8ca393a0?source=rss-4430950b9342------2) <br/> <sub>2021-01-07</sub>
 * [5 Useful Chrome Extensions for Programmers](https://medium.com/logic-gates/5-useful-chrome-extensions-for-programmers-427eaac57a71?source=rss-4430950b9342------2) <br/> <sub>2021-01-06</sub>
-* [How to Connect to a Heroku Postgres Database With pgadmin4 Using Docker](https://towardsdatascience.com/how-to-connect-to-a-heroku-postgres-database-with-pgadmin4-using-docker-6ac1e423ae66?source=rss-4430950b9342------2) <br/> <sub>2021-01-04</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
