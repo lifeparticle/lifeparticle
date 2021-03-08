@@ -17,9 +17,12 @@ def update_programmer_humor_img(name):
 		client_secret = os.environ['CLIENT_SECRET']
 		client = ImgurClient(client_id, client_secret)
 		items = client.subreddit_gallery(name, sort='top', window='week', page=0)
-		#item = random.choice(items)
-		item = items[0]
-		return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="400" width="400" src="{}"></a>'.format(item.id, item.link)
+		for item in items:
+			if ".mp4" not in items.link
+				return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="400" width="400" src="{}"></a>'.format(item.id, item.link)
+			else
+				continue
+		return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="400" width="400" src="https://i.imgur.com/{}"></a>'.format("SV767tT", "SV767tT")
 	except ImgurClientError as e:
 		print(e.error_message)
 
