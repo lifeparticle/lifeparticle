@@ -20,7 +20,7 @@ def update_programmer_humor_img(name):
 		for item in items:
 			if ".mp4" not in items.link:
 				return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="400" width="400" src="{}"></a>'.format(item.id, item.link)
-			else
+			else:
 				continue
 		return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="400" width="400" src="https://i.imgur.com/{}"></a>'.format("SV767tT", "SV767tT")
 	except ImgurClientError as e:
