@@ -1,3 +1,4 @@
+from imgurpython.helpers.error import ImgurClientError
 from imgurpython import ImgurClient
 import requests
 import pathlib
