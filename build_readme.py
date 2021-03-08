@@ -18,7 +18,7 @@ def update_programmer_humor_img(name):
 		client = ImgurClient(client_id, client_secret)
 		items = client.subreddit_gallery(name, sort='top', window='week', page=0)
 		for item in items:
-			if ".mp4" not in items.link
+			if ".mp4" not in items.link:
 				return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="400" width="400" src="{}"></a>'.format(item.id, item.link)
 			else
 				continue
