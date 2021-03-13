@@ -7,6 +7,7 @@
 ### My latest Medium posts
 
 <!-- blog starts -->
+* [How To Run a Python Script Using a Docker Container](https://towardsdatascience.com/how-to-run-a-python-script-using-a-docker-container-ea248e618e32?source=rss-4430950b9342------2) <br/> <sub>2021-03-12</sub>
 * [How To Create a Twitter Bot in Python](https://levelup.gitconnected.com/how-to-create-a-twitter-bot-in-python-bf49a384905f?source=rss-4430950b9342------2) <br/> <sub>2021-03-08</sub>
 * [How To Extract Text From Images Using Tesseract OCR Engine and Python](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5?source=rss-4430950b9342------2) <br/> <sub>2021-03-02</sub>
 * [How to Deploy a Node.js Serverless Function to Vercel](https://javascript.plainenglish.io/how-to-deploy-a-node-js-serverless-function-to-vercel-a0dc13cefa0e?source=rss-4430950b9342------2) <br/> <sub>2021-03-01</sub>
@@ -16,7 +17,6 @@
 * [An Introduction to Linear Search](https://medium.com/logic-gates/an-introduction-to-linear-search-269e2038e952?source=rss-4430950b9342------2) <br/> <sub>2021-02-04</sub>
 * [How to Determine a Prime Number Efficiently](https://medium.com/logic-gates/how-to-determine-a-prime-number-efficiently-bca843c4d377?source=rss-4430950b9342------2) <br/> <sub>2021-02-02</sub>
 * [How to Run PostgreSQL and pgAdmin Using Docker](https://towardsdatascience.com/how-to-run-postgresql-and-pgadmin-using-docker-3a6a8ae918b5?source=rss-4430950b9342------2) <br/> <sub>2021-01-25</sub>
-* [How to Connect to a PostgreSQL Database With a Python Serverless Function](https://towardsdatascience.com/how-to-connect-to-a-postgresql-database-with-a-python-serverless-function-f5f3b244475?source=rss-4430950b9342------2) <br/> <sub>2021-01-11</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
