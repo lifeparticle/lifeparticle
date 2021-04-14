@@ -4,7 +4,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### My latest Medium posts
+<h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
 * [The Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0?source=rss-4430950b9342------2) <br/> <sub>2021-04-09</sub>
@@ -21,7 +21,7 @@
 </td>
 <td width="40%" valign="top">
 
-### Miscellaneous
+<h3 align="center"> Miscellaneous </h3>
 
 - 🤔 I’m looking for help with [Aurthohin][aurthohin]
 <!-- https://github.com/lifeparticle/Gist-Count -->
