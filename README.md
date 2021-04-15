@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How to Dockerize an Existing Flask Application](https://towardsdatascience.com/how-to-dockerize-an-existing-flask-application-115408463e1c?source=rss-4430950b9342------2) <br/> <sub>2021-04-14</sub>
 * [The Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0?source=rss-4430950b9342------2) <br/> <sub>2021-04-09</sub>
 * [3 Approaches You Can Use to Gain Self-Awareness If You’ve Been Struggling with Reflection](https://medium.com/illumination/3-approaches-you-can-use-to-gain-self-awareness-if-youve-been-struggling-with-reflection-a6dcc310720a?source=rss-4430950b9342------2) <br/> <sub>2021-03-16</sub>
 * [How To Run a Python Script Using a Docker Container](https://towardsdatascience.com/how-to-run-a-python-script-using-a-docker-container-ea248e618e32?source=rss-4430950b9342------2) <br/> <sub>2021-03-12</sub>
@@ -16,7 +17,6 @@
 * [An Introduction to Binary Search](https://medium.com/logic-gates/an-introduction-to-binary-search-7518db2b70b4?source=rss-4430950b9342------2) <br/> <sub>2021-02-26</sub>
 * [How I Built a Self-Updating Blog Catalog Using a Bot — Part 2](https://levelup.gitconnected.com/how-i-built-a-self-updating-blog-catalog-using-a-bot-part-2-a67968be5f42?source=rss-4430950b9342------2) <br/> <sub>2021-02-16</sub>
 * [How I Built a Self-Updating Blog Catalog Using a Bot — Part 1](https://levelup.gitconnected.com/how-i-built-a-self-updating-blog-catalog-using-a-bot-part-1-bd7399ba1e4f?source=rss-4430950b9342------2) <br/> <sub>2021-02-11</sub>
-* [An Introduction to Linear Search](https://medium.com/logic-gates/an-introduction-to-linear-search-269e2038e952?source=rss-4430950b9342------2) <br/> <sub>2021-02-04</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
