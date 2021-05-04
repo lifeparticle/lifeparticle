@@ -19,11 +19,11 @@ def update_programmer_humor_img(name):
 		client = ImgurClient(client_id, client_secret)
 		items = client.subreddit_gallery(name, sort='top', window='week', page=0)
 		for item in items:
-			if item.link.endswith(".mp4"):
+			if item.link.endswith(".mp4") or item.link.endswith(".gif"):
 				continue
 			else:
-				return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="300" width="300" src="{}"></a>'.format(item.id, item.link)
-		return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="300" width="300" src="https://i.imgur.com/{}"></a>'.format("SV767tT", "SV767tT")
+				return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="400" width="400" src="{}"></a>'.format(item.id, item.link)
+		return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img height="400" width="400" src="https://i.imgur.com/{}"></a>'.format("SV767tT", "SV767tT")
 	except ImgurClientError as e:
 		print(e.error_message)
 
