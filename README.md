@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [17 Terminal Commands Every Programmer Should Know](https://towardsdatascience.com/17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e?source=rss-4430950b9342------2) <br/> <sub>2021-06-07</sub>
 * [Sorting Algorithm: Selection Sort](https://medium.com/logic-gates/sorting-algorithm-selection-sort-eb0993f4076e?source=rss-4430950b9342------2) <br/> <sub>2021-05-30</sub>
 * [Sorting Algorithm: Bubble Sort](https://medium.com/logic-gates/sorting-algorithm-bubble-sort-6d4c3ac9ea8d?source=rss-4430950b9342------2) <br/> <sub>2021-05-26</sub>
 * [How to Dockerize an Existing Flask Application](https://towardsdatascience.com/how-to-dockerize-an-existing-flask-application-115408463e1c?source=rss-4430950b9342------2) <br/> <sub>2021-04-14</sub>
@@ -16,7 +17,6 @@
 * [How To Create a Twitter Bot in Python](https://levelup.gitconnected.com/how-to-create-a-twitter-bot-in-python-bf49a384905f?source=rss-4430950b9342------2) <br/> <sub>2021-03-08</sub>
 * [How To Extract Text From Images Using Tesseract OCR Engine and Python](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5?source=rss-4430950b9342------2) <br/> <sub>2021-03-02</sub>
 * [How to Deploy a Node.js Serverless Function to Vercel](https://javascript.plainenglish.io/how-to-deploy-a-node-js-serverless-function-to-vercel-a0dc13cefa0e?source=rss-4430950b9342------2) <br/> <sub>2021-03-01</sub>
-* [An Introduction to Binary Search](https://medium.com/logic-gates/an-introduction-to-binary-search-7518db2b70b4?source=rss-4430950b9342------2) <br/> <sub>2021-02-26</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
