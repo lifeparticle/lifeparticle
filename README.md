@@ -16,6 +16,7 @@
 * [3 Approaches You Can Use to Gain Self-Awareness If You’ve Been Struggling with Reflection](https://medium.com/illumination/3-approaches-you-can-use-to-gain-self-awareness-if-youve-been-struggling-with-reflection-a6dcc310720a?source=rss-4430950b9342------2) <br/> <sub>2021-03-16</sub>
 * [How To Run a Python Script Using a Docker Container](https://towardsdatascience.com/how-to-run-a-python-script-using-a-docker-container-ea248e618e32?source=rss-4430950b9342------2) <br/> <sub>2021-03-12</sub>
 * [How To Create a Twitter Bot in Python](https://levelup.gitconnected.com/how-to-create-a-twitter-bot-in-python-bf49a384905f?source=rss-4430950b9342------2) <br/> <sub>2021-03-08</sub>
+* [How To Extract Text From Images Using Tesseract OCR Engine and Python](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5?source=rss-4430950b9342------2) <br/> <sub>2021-03-02</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
@@ -32,7 +33,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/FwOI2QQ"><img height="400" width="400" src="https://i.imgur.com/FwOI2QQ.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/I6yPzTI"><img height="400" width="400" src="https://i.imgur.com/I6yPzTI.jpg"></a>
 <!-- programmer_humor_img ends -->
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
