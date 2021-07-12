@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How to Dockerize an Existing Sinatra Application](https://towardsdatascience.com/how-to-dockerize-an-existing-sinatra-application-3a6943d7a428?source=rss-4430950b9342------2) <br/> <sub>2021-07-11</sub>
 * [Essential Git Commands Every Programmer Should Know](https://towardsdatascience.com/essential-git-commands-every-programmer-should-know-fe96feb570ce?source=rss-4430950b9342------2) <br/> <sub>2021-07-04</sub>
 * [Sorting Algorithm: Insertion Sort](https://medium.com/logic-gates/sorting-algorithm-insertion-sort-44ad99c59fd9?source=rss-4430950b9342------2) <br/> <sub>2021-06-13</sub>
 * [17 Terminal Commands Every Programmer Should Know](https://towardsdatascience.com/17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e?source=rss-4430950b9342------2) <br/> <sub>2021-06-07</sub>
@@ -16,7 +17,6 @@
 * [The Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0?source=rss-4430950b9342------2) <br/> <sub>2021-04-09</sub>
 * [3 Approaches You Can Use to Gain Self-Awareness If You’ve Been Struggling with Reflection](https://medium.com/illumination/3-approaches-you-can-use-to-gain-self-awareness-if-youve-been-struggling-with-reflection-a6dcc310720a?source=rss-4430950b9342------2) <br/> <sub>2021-03-16</sub>
 * [How To Run a Python Script Using a Docker Container](https://towardsdatascience.com/how-to-run-a-python-script-using-a-docker-container-ea248e618e32?source=rss-4430950b9342------2) <br/> <sub>2021-03-12</sub>
-* [How To Create a Twitter Bot in Python](https://levelup.gitconnected.com/how-to-create-a-twitter-bot-in-python-bf49a384905f?source=rss-4430950b9342------2) <br/> <sub>2021-03-08</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
