@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [The Complete Guide to Docker Volumes](https://towardsdatascience.com/the-complete-guide-to-docker-volumes-1a06051d2cce?source=rss-4430950b9342------2) <br/> <sub>2021-07-17</sub>
 * [How To Dockerize an Existing Ruby on Rails Application](https://towardsdatascience.com/how-to-dockerize-an-existing-ruby-on-rails-application-3eb6d16ec392?source=rss-4430950b9342------2) <br/> <sub>2021-07-14</sub>
 * [How to Dockerize an Existing Sinatra Application](https://towardsdatascience.com/how-to-dockerize-an-existing-sinatra-application-3a6943d7a428?source=rss-4430950b9342------2) <br/> <sub>2021-07-11</sub>
 * [Essential Git Commands Every Programmer Should Know](https://towardsdatascience.com/essential-git-commands-every-programmer-should-know-fe96feb570ce?source=rss-4430950b9342------2) <br/> <sub>2021-07-04</sub>
@@ -16,7 +17,6 @@
 * [Sorting Algorithm: Bubble Sort](https://medium.com/logic-gates/sorting-algorithm-bubble-sort-6d4c3ac9ea8d?source=rss-4430950b9342------2) <br/> <sub>2021-05-26</sub>
 * [How to Dockerize an Existing Flask Application](https://towardsdatascience.com/how-to-dockerize-an-existing-flask-application-115408463e1c?source=rss-4430950b9342------2) <br/> <sub>2021-04-14</sub>
 * [The Ultimate Markdown Cheat Sheet](https://towardsdatascience.com/the-ultimate-markdown-cheat-sheet-3d3976b31a0?source=rss-4430950b9342------2) <br/> <sub>2021-04-09</sub>
-* [3 Approaches You Can Use to Gain Self-Awareness If You’ve Been Struggling with Reflection](https://medium.com/illumination/3-approaches-you-can-use-to-gain-self-awareness-if-youve-been-struggling-with-reflection-a6dcc310720a?source=rss-4430950b9342------2) <br/> <sub>2021-03-16</sub>
 <!-- blog ends -->
 </td>
 <td width="40%" valign="top">
@@ -33,7 +33,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/XtPNRVQ"><img height="400" width="400" src="https://i.imgur.com/XtPNRVQ.png"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/fI3zXL1"><img height="400" width="400" src="https://i.imgur.com/fI3zXL1.jpg"></a>
 <!-- programmer_humor_img ends -->
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
