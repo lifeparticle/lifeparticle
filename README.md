@@ -24,8 +24,6 @@
 <h3 align="center"> Miscellaneous </h3>
 
 - 🤔 I’m looking for help with [Aurthohin][aurthohin]
-<!-- https://github.com/lifeparticle/Gist-Count -->
-- [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle)](https://gist.github.com/lifeparticle)
 
 </td>
 </tr>
@@ -43,10 +41,9 @@
 | Profile Bot      	  | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
 | Twitter Tweet Bot   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
 
-
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
-[<img align="right" src="https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg" alt="Build README">][build]
-
+[<img align="right" src="https://gist-count.vercel.app/api?username=lifeparticle" alt="public gists">][gist]
+     
 [linktree]: https://linktr.ee/lifeparticle
-[build]: https://github.com/lifeparticle/lifeparticle/workflows/Build%20README/badge.svg
+[gist]: https://gist.github.com/lifeparticle
 [aurthohin]: https://github.com/lifeparticle/Aurthohin
