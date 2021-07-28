@@ -19,11 +19,22 @@
 * [How to Dockerize an Existing Flask Application](https://towardsdatascience.com/how-to-dockerize-an-existing-flask-application-115408463e1c?source=rss-4430950b9342------2) <br/> <sub>2021-04-14</sub>
 <!-- blog ends -->
 </td>
-<td width="40%" valign="top">
+<td width="20%" valign="top">
 
 <h3 align="center"> Miscellaneous </h3>
 
 - 🤔 I’m looking for help with [Aurthohin][aurthohin]
+
+</td>
+     
+<td width="20%" valign="top">
+
+<h3 align="center"> Bots </h3>
+     
+| Bot Name    | Status      |
+| ----------- | ----------- |
+| Profile Bot      	  | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
+| Twitter Tweet Bot   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
 
 </td>
 </tr>
@@ -36,10 +47,7 @@
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 
-| Bot Name    | Status      |
-| ----------- | ----------- |
-| Profile Bot      	  | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
-| Twitter Tweet Bot   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
+
 
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
 [<img align="right" src="https://gist-count.vercel.app/api?username=lifeparticle" alt="public gists">][gist]
