@@ -19,15 +19,9 @@
 * [How to Dockerize an Existing Flask Application](https://towardsdatascience.com/how-to-dockerize-an-existing-flask-application-115408463e1c?source=rss-4430950b9342------2) <br/> <sub>2021-04-14</sub>
 <!-- blog ends -->
 </td>
-<td width="20%" valign="top">
 
-<h3 align="center"> Miscellaneous </h3>
-
-- 🤔 I’m looking for help with [Aurthohin][aurthohin]
-
-</td>
      
-<td width="20%" valign="top">
+<td width="40%" valign="top">
 
 <h3 align="center"> Bots </h3>
      
@@ -52,7 +46,11 @@
 | [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)     |
 | [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) |
      
+<h3 align="center"> Miscellaneous </h3>
 
+- 🤔 I’m looking for help with [Aurthohin][aurthohin]
+
+![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 </td>
 </tr>
 
