@@ -49,6 +49,7 @@
 <h3 align="center"> Miscellaneous </h3>
 
 - 🤔 I’m looking for help with [Aurthohin][aurthohin]
+- [<img align="left" src="https://gist-count.vercel.app/api?username=lifeparticle" alt="public gists">][gist]
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 </td>
@@ -63,10 +64,7 @@
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 
-
-
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
-[<img align="right" src="https://gist-count.vercel.app/api?username=lifeparticle" alt="public gists">][gist]
      
 [linktree]: https://linktr.ee/lifeparticle
 [gist]: https://gist.github.com/lifeparticle
