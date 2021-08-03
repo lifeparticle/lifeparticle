@@ -42,7 +42,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/qc6FRZK"><img height="400" width="400" src="https://i.imgur.com/qc6FRZK.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/m0TPjiD"><img height="400" width="400" src="https://i.imgur.com/m0TPjiD.jpg"></a>
 <!-- programmer_humor_img ends -->
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
