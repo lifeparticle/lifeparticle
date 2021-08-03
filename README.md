@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 <h3 align="center"> My latest Medium posts </h3>
 
@@ -21,7 +21,7 @@
 </td>
 
      
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 <h3 align="center"> Bots </h3>
      
