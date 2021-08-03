@@ -36,8 +36,24 @@
 | Profile Bot      	  | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
 | Twitter Tweet Bot   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
 
+  
+<h3 align="center"> Cheatsheets </h3>
+     
+| URL      |
+| ----------- |
+| [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)         |
+| [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)     |
+| [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)         |
+| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)             |
+| [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)         |
+| [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)     |
+| [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)           |
+| [PostgreSql-Snippets](https://github.com/lifeparticle/PostgreSql-Snippets) |
+| [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)     |
+
 </td>
 </tr>
+
 </table>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true" width=350 align="right" /></a>
