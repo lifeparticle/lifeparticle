@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How To Manage Multiple Python Versions](https://python.plainenglish.io/how-to-manage-multiple-python-versions-f0da7a9b6603?source=rss-4430950b9342------2) <br/> <sub>2021-08-03</sub>
 * [12 Essential Docker Commands You Should Know](https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5a7751bb5?source=rss-4430950b9342------2) <br/> <sub>2021-07-25</sub>
 * [The Complete Guide to Docker Volumes](https://towardsdatascience.com/the-complete-guide-to-docker-volumes-1a06051d2cce?source=rss-4430950b9342------2) <br/> <sub>2021-07-17</sub>
 * [How To Dockerize an Existing Ruby on Rails Application](https://towardsdatascience.com/how-to-dockerize-an-existing-ruby-on-rails-application-3eb6d16ec392?source=rss-4430950b9342------2) <br/> <sub>2021-07-14</sub>
@@ -16,7 +17,6 @@
 * [17 Terminal Commands Every Programmer Should Know](https://towardsdatascience.com/17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e?source=rss-4430950b9342------2) <br/> <sub>2021-06-07</sub>
 * [Sorting Algorithm: Selection Sort](https://medium.com/logic-gates/sorting-algorithm-selection-sort-eb0993f4076e?source=rss-4430950b9342------2) <br/> <sub>2021-05-30</sub>
 * [Sorting Algorithm: Bubble Sort](https://medium.com/logic-gates/sorting-algorithm-bubble-sort-6d4c3ac9ea8d?source=rss-4430950b9342------2) <br/> <sub>2021-05-26</sub>
-* [How to Dockerize an Existing Flask Application](https://towardsdatascience.com/how-to-dockerize-an-existing-flask-application-115408463e1c?source=rss-4430950b9342------2) <br/> <sub>2021-04-14</sub>
 <!-- blog ends -->
 </td>
 
