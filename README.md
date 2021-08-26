@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How To Parse Data Using Ruby and Selenium](https://towardsdatascience.com/how-to-parse-data-using-ruby-and-selenium-5cf11605340c?source=rss-4430950b9342------2) <br/> <sub>2021-08-25</sub>
 * [How To Dockerize an Existing React Application](https://towardsdatascience.com/how-to-dockerize-an-existing-react-application-c27bd8517dcb?source=rss-4430950b9342------2) <br/> <sub>2021-08-06</sub>
 * [How to Deploy a React Application to Netlify](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-netlify-e120d2de2654?source=rss-4430950b9342------2) <br/> <sub>2021-08-05</sub>
 * [How To Manage Multiple Python Versions](https://python.plainenglish.io/how-to-manage-multiple-python-versions-f0da7a9b6603?source=rss-4430950b9342------2) <br/> <sub>2021-08-03</sub>
@@ -16,7 +17,6 @@
 * [How to Dockerize an Existing Sinatra Application](https://towardsdatascience.com/how-to-dockerize-an-existing-sinatra-application-3a6943d7a428?source=rss-4430950b9342------2) <br/> <sub>2021-07-11</sub>
 * [Essential Git Commands Every Programmer Should Know](https://towardsdatascience.com/essential-git-commands-every-programmer-should-know-fe96feb570ce?source=rss-4430950b9342------2) <br/> <sub>2021-07-04</sub>
 * [Sorting Algorithm: Insertion Sort](https://medium.com/logic-gates/sorting-algorithm-insertion-sort-44ad99c59fd9?source=rss-4430950b9342------2) <br/> <sub>2021-06-13</sub>
-* [17 Terminal Commands Every Programmer Should Know](https://towardsdatascience.com/17-terminal-commands-every-programmer-should-know-4fc4f4a5e20e?source=rss-4430950b9342------2) <br/> <sub>2021-06-07</sub>
 <!-- blog ends -->
 </td>
 
