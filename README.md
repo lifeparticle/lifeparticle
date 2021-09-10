@@ -64,7 +64,7 @@
 </div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/qXmUXkd"><img height="400" width="400" src="https://i.imgur.com/qXmUXkd.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/gj2HKAX"><img height="400" width="400" src="https://i.imgur.com/gj2HKAX.jpg"></a>
 <!-- programmer_humor_img ends -->
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
