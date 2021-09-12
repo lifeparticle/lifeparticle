@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How To Create a Docker Image From a Container](https://python.plainenglish.io/how-to-create-a-docker-image-from-a-container-402f70f3dbf0?source=rss-4430950b9342------2) <br/> <sub>2021-09-11</sub>
 * [How To Parse Data Using Ruby and Selenium](https://towardsdatascience.com/how-to-parse-data-using-ruby-and-selenium-5cf11605340c?source=rss-4430950b9342------2) <br/> <sub>2021-08-25</sub>
 * [How To Dockerize an Existing React Application](https://towardsdatascience.com/how-to-dockerize-an-existing-react-application-c27bd8517dcb?source=rss-4430950b9342------2) <br/> <sub>2021-08-06</sub>
 * [How to Deploy a React Application to Netlify](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-netlify-e120d2de2654?source=rss-4430950b9342------2) <br/> <sub>2021-08-05</sub>
@@ -16,7 +17,6 @@
 * [How To Dockerize an Existing Ruby on Rails Application](https://towardsdatascience.com/how-to-dockerize-an-existing-ruby-on-rails-application-3eb6d16ec392?source=rss-4430950b9342------2) <br/> <sub>2021-07-14</sub>
 * [How to Dockerize an Existing Sinatra Application](https://towardsdatascience.com/how-to-dockerize-an-existing-sinatra-application-3a6943d7a428?source=rss-4430950b9342------2) <br/> <sub>2021-07-11</sub>
 * [Essential Git Commands Every Programmer Should Know](https://towardsdatascience.com/essential-git-commands-every-programmer-should-know-fe96feb570ce?source=rss-4430950b9342------2) <br/> <sub>2021-07-04</sub>
-* [Sorting Algorithm: Insertion Sort](https://medium.com/logic-gates/sorting-algorithm-insertion-sort-44ad99c59fd9?source=rss-4430950b9342------2) <br/> <sub>2021-06-13</sub>
 <!-- blog ends -->
 </td>
 
