@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How To Parse Data Using Python and Selenium](https://towardsdatascience.com/how-to-parse-data-using-python-and-selenium-907a95239ee0?source=rss-4430950b9342------2) <br/> <sub>2021-09-13</sub>
 * [How To Create a Docker Image From a Container](https://python.plainenglish.io/how-to-create-a-docker-image-from-a-container-402f70f3dbf0?source=rss-4430950b9342------2) <br/> <sub>2021-09-11</sub>
 * [How To Parse Data Using Ruby and Selenium](https://towardsdatascience.com/how-to-parse-data-using-ruby-and-selenium-5cf11605340c?source=rss-4430950b9342------2) <br/> <sub>2021-08-25</sub>
 * [How To Dockerize an Existing React Application](https://towardsdatascience.com/how-to-dockerize-an-existing-react-application-c27bd8517dcb?source=rss-4430950b9342------2) <br/> <sub>2021-08-06</sub>
@@ -16,7 +17,6 @@
 * [The Complete Guide to Docker Volumes](https://towardsdatascience.com/the-complete-guide-to-docker-volumes-1a06051d2cce?source=rss-4430950b9342------2) <br/> <sub>2021-07-17</sub>
 * [How To Dockerize an Existing Ruby on Rails Application](https://towardsdatascience.com/how-to-dockerize-an-existing-ruby-on-rails-application-3eb6d16ec392?source=rss-4430950b9342------2) <br/> <sub>2021-07-14</sub>
 * [How to Dockerize an Existing Sinatra Application](https://towardsdatascience.com/how-to-dockerize-an-existing-sinatra-application-3a6943d7a428?source=rss-4430950b9342------2) <br/> <sub>2021-07-11</sub>
-* [Essential Git Commands Every Programmer Should Know](https://towardsdatascience.com/essential-git-commands-every-programmer-should-know-fe96feb570ce?source=rss-4430950b9342------2) <br/> <sub>2021-07-04</sub>
 <!-- blog ends -->
 </td>
 
@@ -64,7 +64,7 @@
 </div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/2MPNSgc"><img height="400" width="400" src="https://i.imgur.com/2MPNSgc.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/eF9ZxS6"><img height="400" width="400" src="https://i.imgur.com/eF9ZxS6.png"></a>
 <!-- programmer_humor_img ends -->
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
