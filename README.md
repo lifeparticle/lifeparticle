@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How to Deploy a React Application to Cloudflare Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-cloudflare-pages-e334466109c3?source=rss-4430950b9342------2) <br/> <sub>2021-09-27</sub>
 * [How To Parse Data Using Python and Selenium](https://towardsdatascience.com/how-to-parse-data-using-python-and-selenium-907a95239ee0?source=rss-4430950b9342------2) <br/> <sub>2021-09-13</sub>
 * [How To Create a Docker Image From a Container](https://python.plainenglish.io/how-to-create-a-docker-image-from-a-container-402f70f3dbf0?source=rss-4430950b9342------2) <br/> <sub>2021-09-11</sub>
 * [How To Parse Data Using Ruby and Selenium](https://towardsdatascience.com/how-to-parse-data-using-ruby-and-selenium-5cf11605340c?source=rss-4430950b9342------2) <br/> <sub>2021-08-25</sub>
@@ -16,7 +17,6 @@
 * [12 Essential Docker Commands You Should Know](https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5a7751bb5?source=rss-4430950b9342------2) <br/> <sub>2021-07-25</sub>
 * [The Complete Guide to Docker Volumes](https://towardsdatascience.com/the-complete-guide-to-docker-volumes-1a06051d2cce?source=rss-4430950b9342------2) <br/> <sub>2021-07-17</sub>
 * [How To Dockerize an Existing Ruby on Rails Application](https://towardsdatascience.com/how-to-dockerize-an-existing-ruby-on-rails-application-3eb6d16ec392?source=rss-4430950b9342------2) <br/> <sub>2021-07-14</sub>
-* [How to Dockerize an Existing Sinatra Application](https://towardsdatascience.com/how-to-dockerize-an-existing-sinatra-application-3a6943d7a428?source=rss-4430950b9342------2) <br/> <sub>2021-07-11</sub>
 <!-- blog ends -->
 </td>
 
