@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [Software Development Isn’t All About Programming](https://medium.com/geekculture/software-development-isnt-all-about-programming-831f0cead94a?source=rss-4430950b9342------2) <br/> <sub>2021-10-01</sub>
 * [How to Deploy a React Application to Cloudflare Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-cloudflare-pages-e334466109c3?source=rss-4430950b9342------2) <br/> <sub>2021-09-27</sub>
 * [How To Parse Data Using Python and Selenium](https://towardsdatascience.com/how-to-parse-data-using-python-and-selenium-907a95239ee0?source=rss-4430950b9342------2) <br/> <sub>2021-09-13</sub>
 * [How To Create a Docker Image From a Container](https://python.plainenglish.io/how-to-create-a-docker-image-from-a-container-402f70f3dbf0?source=rss-4430950b9342------2) <br/> <sub>2021-09-11</sub>
@@ -16,7 +17,6 @@
 * [How To Manage Multiple Python Versions](https://python.plainenglish.io/how-to-manage-multiple-python-versions-f0da7a9b6603?source=rss-4430950b9342------2) <br/> <sub>2021-08-03</sub>
 * [12 Essential Docker Commands You Should Know](https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5a7751bb5?source=rss-4430950b9342------2) <br/> <sub>2021-07-25</sub>
 * [The Complete Guide to Docker Volumes](https://towardsdatascience.com/the-complete-guide-to-docker-volumes-1a06051d2cce?source=rss-4430950b9342------2) <br/> <sub>2021-07-17</sub>
-* [How To Dockerize an Existing Ruby on Rails Application](https://towardsdatascience.com/how-to-dockerize-an-existing-ruby-on-rails-application-3eb6d16ec392?source=rss-4430950b9342------2) <br/> <sub>2021-07-14</sub>
 <!-- blog ends -->
 </td>
 
@@ -64,7 +64,7 @@
 </div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/09MAc1b"><img height="400" width="400" src="https://i.imgur.com/09MAc1b.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/gGKhhPb"><img height="400" width="400" src="https://i.imgur.com/gGKhhPb.jpg"></a>
 <!-- programmer_humor_img ends -->
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
