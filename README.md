@@ -34,8 +34,8 @@
      
 | Bot Name    | Status      |
 | ----------- | ----------- |
-| Profile Bot      	  | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
-| Twitter Tweet Bot   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
+| [Profile Bot](https://github.com/lifeparticle/lifeparticle/blob/master/build_readme.py)          | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
+| [Twitter Tweet Bot](https://github.com/lifeparticle/twitter-tweet-bot/blob/main/build_json.py)   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
 
   
 <h3 align="center"> Cheatsheets </h3>
