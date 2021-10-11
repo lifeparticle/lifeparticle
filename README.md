@@ -23,7 +23,7 @@
      
 | App Name    | Status      |
 | ----------- | ----------- |
-| Dhushor      	  | [![Netlify Status](https://api.netlify.com/api/v1/badges/0e27e7a8-2dd0-409d-9799-ba897469f9bc/deploy-status)](https://app.netlify.com/sites/dhushor/deploys)       |
+| [Dhushor](https://dhushor.netlify.app/home)      	  | [![Netlify Status](https://api.netlify.com/api/v1/badges/0e27e7a8-2dd0-409d-9799-ba897469f9bc/deploy-status)](https://app.netlify.com/sites/dhushor/deploys)       |
 
 </td>
 
