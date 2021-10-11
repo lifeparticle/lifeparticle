@@ -18,6 +18,13 @@
 * [12 Essential Docker Commands You Should Know](https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5a7751bb5?source=rss-4430950b9342------2) <br/> <sub>2021-07-25</sub>
 * [The Complete Guide to Docker Volumes](https://towardsdatascience.com/the-complete-guide-to-docker-volumes-1a06051d2cce?source=rss-4430950b9342------2) <br/> <sub>2021-07-17</sub>
 <!-- blog ends -->
+     
+<h3 align="center"> Apps </h3>
+     
+| App Name    | Status      |
+| ----------- | ----------- |
+| Dhushor      	  | [![Netlify Status](https://api.netlify.com/api/v1/badges/0e27e7a8-2dd0-409d-9799-ba897469f9bc/deploy-status)](https://app.netlify.com/sites/dhushor/deploys)       |
+
 </td>
 
      
