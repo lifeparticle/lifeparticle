@@ -14,9 +14,7 @@ root = pathlib.Path(__file__).parent.resolve()
 
 def update_programmer_humor_img(name):
 	try:
-		client_id = os.environ['CLIENT_ID']
-		client_secret = os.environ['CLIENT_SECRET']
-		client = ImgurClient(client_id, client_secret)
+		client = ImgurClient(os.environ['CLIENT_ID'], os.environ['CLIENT_SECRET'])
 		items = client.subreddit_gallery(name, sort='top', window='week', page=0)
 		for item in items:
 			if item.link.endswith(".mp4") or item.link.endswith(".gif"):
