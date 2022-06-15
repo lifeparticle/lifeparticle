@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How To Show Data Using Infinite Scroll in React](https://towardsdatascience.com/how-to-show-data-using-infinite-scroll-in-react-7c7c8540d5b4?source=rss-4430950b9342------2) <br/> <sub>2022-06-14</sub>
 * [How To Create a User Interface Using CSS Grid](https://medium.com/geekculture/how-to-create-a-user-interface-using-css-grid-738d0b51282?source=rss-4430950b9342------2) <br/> <sub>2022-05-30</sub>
 * [Visualizing Netflix Data With Python](https://towardsdatascience.com/visualizing-netflix-data-with-python-bca60a2632d9?source=rss-4430950b9342------2) <br/> <sub>2022-01-14</sub>
 * [Software Development Isn’t All About Programming](https://medium.com/geekculture/software-development-isnt-all-about-programming-831f0cead94a?source=rss-4430950b9342------2) <br/> <sub>2021-10-01</sub>
@@ -16,7 +17,6 @@
 * [How To Parse Data Using Ruby and Selenium](https://towardsdatascience.com/how-to-parse-data-using-ruby-and-selenium-5cf11605340c?source=rss-4430950b9342------2) <br/> <sub>2021-08-25</sub>
 * [How To Dockerize an Existing React Application](https://towardsdatascience.com/how-to-dockerize-an-existing-react-application-c27bd8517dcb?source=rss-4430950b9342------2) <br/> <sub>2021-08-06</sub>
 * [How to Deploy a React Application to Netlify](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-netlify-e120d2de2654?source=rss-4430950b9342------2) <br/> <sub>2021-08-05</sub>
-* [How To Manage Multiple Python Versions](https://python.plainenglish.io/how-to-manage-multiple-python-versions-f0da7a9b6603?source=rss-4430950b9342------2) <br/> <sub>2021-08-03</sub>
 <!-- blog ends -->
      
 <h3 align="center"> Apps </h3>
