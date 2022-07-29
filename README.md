@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How to Create a React Application Using Vite](https://javascript.plainenglish.io/how-to-create-a-react-application-using-vite-cc3e9910a3f3?source=rss-4430950b9342------2) <br/> <sub>2022-07-28</sub>
 * [How To Create Tauri Desktop Applications Using React](https://medium.com/geekculture/how-to-create-tauri-desktop-applications-using-react-8541e42b1f22?source=rss-4430950b9342------2) <br/> <sub>2022-07-01</sub>
 * [How To Show Data Using Infinite Scroll in React](https://towardsdatascience.com/how-to-show-data-using-infinite-scroll-in-react-7c7c8540d5b4?source=rss-4430950b9342------2) <br/> <sub>2022-06-14</sub>
 * [How To Create a User Interface Using CSS Grid](https://medium.com/geekculture/how-to-create-a-user-interface-using-css-grid-738d0b51282?source=rss-4430950b9342------2) <br/> <sub>2022-05-30</sub>
@@ -16,7 +17,6 @@
 * [How To Parse Data Using Python and Selenium](https://towardsdatascience.com/how-to-parse-data-using-python-and-selenium-907a95239ee0?source=rss-4430950b9342------2) <br/> <sub>2021-09-13</sub>
 * [How To Create a Docker Image From a Container](https://python.plainenglish.io/how-to-create-a-docker-image-from-a-container-402f70f3dbf0?source=rss-4430950b9342------2) <br/> <sub>2021-09-11</sub>
 * [How To Parse Data Using Ruby and Selenium](https://towardsdatascience.com/how-to-parse-data-using-ruby-and-selenium-5cf11605340c?source=rss-4430950b9342------2) <br/> <sub>2021-08-25</sub>
-* [How To Dockerize an Existing React Application](https://towardsdatascience.com/how-to-dockerize-an-existing-react-application-c27bd8517dcb?source=rss-4430950b9342------2) <br/> <sub>2021-08-06</sub>
 <!-- blog ends -->
      
 <h3 align="center"> Apps </h3>
