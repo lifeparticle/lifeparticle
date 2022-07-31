@@ -7,6 +7,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How to Create a React Application With Deno](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
 * [How to Create a React Application Using Vite](https://javascript.plainenglish.io/how-to-create-a-react-application-using-vite-cc3e9910a3f3?source=rss-4430950b9342------2) <br/> <sub>2022-07-28</sub>
 * [How To Create Tauri Desktop Applications Using React](https://medium.com/geekculture/how-to-create-tauri-desktop-applications-using-react-8541e42b1f22?source=rss-4430950b9342------2) <br/> <sub>2022-07-01</sub>
 * [How To Show Data Using Infinite Scroll in React](https://towardsdatascience.com/how-to-show-data-using-infinite-scroll-in-react-7c7c8540d5b4?source=rss-4430950b9342------2) <br/> <sub>2022-06-14</sub>
@@ -16,7 +17,6 @@
 * [How to Deploy a React Application to Cloudflare Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-cloudflare-pages-e334466109c3?source=rss-4430950b9342------2) <br/> <sub>2021-09-27</sub>
 * [How To Parse Data Using Python and Selenium](https://towardsdatascience.com/how-to-parse-data-using-python-and-selenium-907a95239ee0?source=rss-4430950b9342------2) <br/> <sub>2021-09-13</sub>
 * [How To Create a Docker Image From a Container](https://python.plainenglish.io/how-to-create-a-docker-image-from-a-container-402f70f3dbf0?source=rss-4430950b9342------2) <br/> <sub>2021-09-11</sub>
-* [How To Parse Data Using Ruby and Selenium](https://towardsdatascience.com/how-to-parse-data-using-ruby-and-selenium-5cf11605340c?source=rss-4430950b9342------2) <br/> <sub>2021-08-25</sub>
 <!-- blog ends -->
      
 <h3 align="center"> Apps </h3>
@@ -72,7 +72,7 @@
 </div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/uHQeYOS"><img max-height="400" width="350" src="https://i.imgur.com/uHQeYOS.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/pqh5hvb"><img max-height="400" width="350" src="https://i.imgur.com/pqh5hvb.png"></a>
 <!-- programmer_humor_img ends -->
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
