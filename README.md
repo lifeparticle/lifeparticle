@@ -19,11 +19,14 @@
 * [How To Create a Docker Image From a Container](https://python.plainenglish.io/how-to-create-a-docker-image-from-a-container-402f70f3dbf0?source=rss-4430950b9342------2) <br/> <sub>2021-09-11</sub>
 <!-- blog ends -->
      
-<h3 align="center"> Apps </h3>
+<h3 align="center"> Dev Setup </h3>
      
-| App Name    | Status      |
-| ----------- | ----------- |
-| [Dhushor](https://dhushor.netlify.app)      	  | [![Netlify Status](https://api.netlify.com/api/v1/badges/0e27e7a8-2dd0-409d-9799-ba897469f9bc/deploy-status)](https://app.netlify.com/sites/dhushor/deploys)       |
+| Project Name    |
+| ----------- |
+| <!-- [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)  -->  |
+| [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)  |
+| [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)    |
+| [Cosmic-vscode](https://github.com/lifeparticle/Cosmic-vscode)      |
 
 </td>
 
