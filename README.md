@@ -23,10 +23,10 @@
      
 | Project Name    |
 | ----------- |
-| <!-- [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)  -->  |
 | [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)  |
 | [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)    |
 | [Cosmic-vscode](https://github.com/lifeparticle/Cosmic-vscode)      |
+<!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
 
 </td>
 
