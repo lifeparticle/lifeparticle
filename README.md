@@ -1,4 +1,4 @@
-<!-- Continuous Improvement Programme -->
+<!-- Continuous Improvement Programme - CIP -->
 ### 👋  Hello
 
 <table>
