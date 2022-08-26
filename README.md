@@ -27,7 +27,9 @@
 | [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)                         |
 | [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)                           |
 | [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)                             |
+| [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)         |
 | [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers) |
+
 <!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
 
 </td>
