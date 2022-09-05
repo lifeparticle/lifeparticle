@@ -8,6 +8,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How to Automate Your Daily Workflow Using NeoKey Trinkey](https://medium.com/geekculture/how-to-automate-your-daily-workflow-using-neokey-trinkey-7a619597f0e7?source=rss-4430950b9342------2) <br/> <sub>2022-09-04</sub>
 * [How to Create a React Application With Deno](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
 * [How to Create a React Application Using Vite](https://javascript.plainenglish.io/how-to-create-a-react-application-using-vite-cc3e9910a3f3?source=rss-4430950b9342------2) <br/> <sub>2022-07-28</sub>
 * [How To Create Tauri Desktop Applications Using React](https://medium.com/geekculture/how-to-create-tauri-desktop-applications-using-react-8541e42b1f22?source=rss-4430950b9342------2) <br/> <sub>2022-07-01</sub>
@@ -17,7 +18,6 @@
 * [Software Development Isn’t All About Programming](https://medium.com/geekculture/software-development-isnt-all-about-programming-831f0cead94a?source=rss-4430950b9342------2) <br/> <sub>2021-10-01</sub>
 * [How to Deploy a React Application to Cloudflare Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-cloudflare-pages-e334466109c3?source=rss-4430950b9342------2) <br/> <sub>2021-09-27</sub>
 * [How To Parse Data Using Python and Selenium](https://towardsdatascience.com/how-to-parse-data-using-python-and-selenium-907a95239ee0?source=rss-4430950b9342------2) <br/> <sub>2021-09-13</sub>
-* [How To Create a Docker Image From a Container](https://python.plainenglish.io/how-to-create-a-docker-image-from-a-container-402f70f3dbf0?source=rss-4430950b9342------2) <br/> <sub>2021-09-11</sub>
 <!-- blog ends -->
      
 <h3 align="center"> Dev Setup </h3>
