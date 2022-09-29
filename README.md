@@ -21,7 +21,9 @@
 <!-- blog ends -->
      
 <h3 align="center"> Dev Setup </h3>
-     
+
+<div align="center">
+
 | Project Name    |
 | ----------- |
 | [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)                         |
@@ -31,6 +33,7 @@
 | [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers) |
 
 <!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
+</div>
 
 </td>
 
@@ -38,15 +41,20 @@
 <td width="50%" valign="top">
 
 <h3 align="center"> Bots </h3>
+
+<div align="center">
      
 | Bot Name    | Status      |
 | ----------- | ----------- |
 | [Profile Bot](https://github.com/lifeparticle/lifeparticle/blob/master/build_readme.py)          | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
 | [Twitter Tweet Bot](https://github.com/lifeparticle/twitter-tweet-bot/blob/main/build_json.py)   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
 
-  
+</div>
+
 <h3 align="center"> Cheatsheets </h3>
-     
+
+<div align="center">
+
 | URL      |
 | ----------- |
 | [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)                            |
@@ -61,7 +69,9 @@
 | [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)                        |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                              |
 | [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)  |
-     
+    
+</div>
+
 <h3 align="center"> Miscellaneous </h3>
 
 - 🤔 I’m looking for help with [Aurthohin][aurthohin]
