@@ -92,8 +92,6 @@
 <a href="https://imgur.com/r/ProgrammerHumor/PvqFfHM"><img max-height="400" width="350" src="https://i.imgur.com/PvqFfHM.jpg"></a>
 <!-- programmer_humor_img ends -->
 
-![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
-
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
      
 [linktree]: https://linktr.ee/lifeparticle
