@@ -35,6 +35,18 @@
 <!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
 </div>
 
+<h3 align="center"> Dev Tools </h3>
+
+<div align="center">
+
+| Project Name    |
+| ----------- |
+| [Dev-tools](https://github.com/lifeparticle/dev-tools)                                      |
+| [Houdini](https://github.com/lifeparticle/Houdini)                                          |
+
+
+</div>
+
 </td>
 
      
