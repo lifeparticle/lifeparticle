@@ -79,6 +79,7 @@
 | [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)                              |
 | [PostgreSql-Snippets](https://github.com/lifeparticle/PostgreSql-Snippets)                    |
 | [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)                        |
+| [GraphQL-Cheatsheet](https://github.com/lifeparticle/GraphQL-Cheatsheet)                      |
 | [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)                            |
 | [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)                        |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                              |
