@@ -8,6 +8,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How to Create and Connect to a PostgreSQL Database With Render and pgAdmin](https://medium.com/geekculture/how-to-create-and-connect-to-a-postgresql-database-with-render-and-pgadmin-577b326fd19d?source=rss-4430950b9342------2) <br/> <sub>2022-12-03</sub>
 * [How to Deploy a React Application to Render](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-render-611ef3aca84a?source=rss-4430950b9342------2) <br/> <sub>2022-11-25</sub>
 * [How to Automate Your Daily Workflow Using NeoKey Trinkey](https://medium.com/geekculture/how-to-automate-your-daily-workflow-using-neokey-trinkey-7a619597f0e7?source=rss-4430950b9342------2) <br/> <sub>2022-09-04</sub>
 * [How to Create a React Application With Deno](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
@@ -17,7 +18,6 @@
 * [How To Create a User Interface Using CSS Grid](https://medium.com/geekculture/how-to-create-a-user-interface-using-css-grid-738d0b51282?source=rss-4430950b9342------2) <br/> <sub>2022-05-30</sub>
 * [Visualizing Netflix Data With Python](https://towardsdatascience.com/visualizing-netflix-data-with-python-bca60a2632d9?source=rss-4430950b9342------2) <br/> <sub>2022-01-14</sub>
 * [Software Development Isn’t All About Programming](https://medium.com/geekculture/software-development-isnt-all-about-programming-831f0cead94a?source=rss-4430950b9342------2) <br/> <sub>2021-10-01</sub>
-* [How to Deploy a React Application to Cloudflare Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-cloudflare-pages-e334466109c3?source=rss-4430950b9342------2) <br/> <sub>2021-09-27</sub>
 <!-- blog ends -->
      
 <h3 align="center"> Dev Setup </h3>
@@ -105,7 +105,7 @@
 </div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/ZtLU6Uw"><img max-height="400" width="350" src="https://i.imgur.com/ZtLU6Uw.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/MTuzSrE"><img max-height="400" width="350" src="https://i.imgur.com/MTuzSrE.jpg"></a>
 <!-- programmer_humor_img ends -->
 
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
