@@ -41,7 +41,6 @@
 
 | Project Name    |
 | ----------- |
-| [Dev-tools](https://github.com/lifeparticle/dev-tools)                                      |
 | [Houdini](https://github.com/lifeparticle/Houdini)                                          |
 
 
