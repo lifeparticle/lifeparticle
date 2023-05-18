@@ -19,6 +19,7 @@ def update_programmer_humor_img(name):
     try:
         client = ImgurClient(os.environ['CLIENT_ID'], os.environ['CLIENT_SECRET'])
         credits = client.credits
+        print(credits["UserRemaining"])
         print(credits)
         if credits["UserRemaining"] > 0:
             items = client.subreddit_gallery(name, sort="top", window="week", page=0)
