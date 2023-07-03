@@ -9,6 +9,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How To Deploy a React Application to GitHub Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) <br/> <sub>2023-06-30</sub>
 * [3 Critical Lessons Programmers Can Learn From the FutureStack Tech Conference](https://levelup.gitconnected.com/3-critical-lessons-programmers-can-learn-from-the-futurestack-tech-conference-4188c14edb11?source=rss-4430950b9342------2) <br/> <sub>2023-02-16</sub>
 * [How to Deploy a Flask Application to Render](https://python.plainenglish.io/how-to-deploy-a-flask-application-to-render-2a70e4d55919?source=rss-4430950b9342------2) <br/> <sub>2022-12-27</sub>
 * [How to Create and Connect to a PostgreSQL Database With Render and pgAdmin](https://medium.com/geekculture/how-to-create-and-connect-to-a-postgresql-database-with-render-and-pgadmin-577b326fd19d?source=rss-4430950b9342------2) <br/> <sub>2022-12-03</sub>
@@ -18,7 +19,6 @@
 * [How to Create a React Application Using Vite](https://javascript.plainenglish.io/how-to-create-a-react-application-using-vite-cc3e9910a3f3?source=rss-4430950b9342------2) <br/> <sub>2022-07-28</sub>
 * [How To Create Tauri Desktop Applications Using React](https://medium.com/geekculture/how-to-create-tauri-desktop-applications-using-react-8541e42b1f22?source=rss-4430950b9342------2) <br/> <sub>2022-07-01</sub>
 * [How To Show Data Using Infinite Scroll in React](https://towardsdatascience.com/how-to-show-data-using-infinite-scroll-in-react-7c7c8540d5b4?source=rss-4430950b9342------2) <br/> <sub>2022-06-14</sub>
-* [How To Create a User Interface Using CSS Grid](https://medium.com/geekculture/how-to-create-a-user-interface-using-css-grid-738d0b51282?source=rss-4430950b9342------2) <br/> <sub>2022-05-30</sub>
 <!-- blog ends -->
      
 <h3 align="center"> Dev Setup </h3>
@@ -107,7 +107,7 @@
 </div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/IYsoInT"><img max-height="400" width="350" src="https://i.imgur.com/IYsoInT.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/LkjXP3k"><img max-height="400" width="350" src="https://i.imgur.com/LkjXP3k.jpg"></a>
 <!-- programmer_humor_img ends -->
 
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
