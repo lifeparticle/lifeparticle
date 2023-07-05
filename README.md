@@ -111,6 +111,7 @@
 <!-- programmer_humor_img ends -->
 
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
+![](https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=313131&label=views)
      
 [linktree]: https://linktr.ee/lifeparticle
 [gist]: https://gist.github.com/lifeparticle
