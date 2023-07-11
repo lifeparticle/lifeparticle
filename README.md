@@ -23,29 +23,32 @@
      
 <h3 align="center"> Dev Setup </h3>
 
-<div align="center">
+<div align="left">
 
-| Project Name    |
-| ----------- |
-| [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)                         |
-| [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)                           |
-| [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)                             |
-| [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)         |
-| [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers) |
+
+- [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)
+- [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)
+- [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)
+- [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)
+- [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers)
 
 <!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
 </div>
 
 <h3 align="center"> Dev Tools </h3>
 
-<div align="center">
+<div align="left">
 
-| Project Name    |
-| ----------- |
-| [Houdini](https://github.com/lifeparticle/Houdini)                                          |
+
+- [Houdini](https://github.com/lifeparticle/Houdini)
 
 
 </div>
+
+<h3 align="center"> Miscellaneous </h3>
+
+- 🤔 I’m looking for help with [Aurthohin][aurthohin]
+- [<img align="left" src="https://gist-count.vercel.app/api?username=lifeparticle" alt="public gists">][gist]
 
 </td>
 
@@ -89,11 +92,6 @@
 | [GitHub-Cheatsheet](https://github.com/lifeparticle/GitHub-Cheatsheet)                        |
     
 </div>
-
-<h3 align="center"> Miscellaneous </h3>
-
-- 🤔 I’m looking for help with [Aurthohin][aurthohin]
-- [<img align="left" src="https://gist-count.vercel.app/api?username=lifeparticle" alt="public gists">][gist]
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 </td>
