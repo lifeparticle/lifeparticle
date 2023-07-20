@@ -46,16 +46,6 @@
 <!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
 </div>
 
-<h3 align="center"> Dev Tools </h3>
-
-<div align="left">
-
-
-- [Binary Tree](https://github.com/lifeparticle/binarytree)
-
-
-</div>
-
 <h3 align="center"> Miscellaneous </h3>
 
 - 🤔 I’m looking for help with [Aurthohin][aurthohin]
