@@ -106,7 +106,7 @@
 </div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/9FhaE5v"><img max-height="400" width="350" src="https://i.imgur.com/9FhaE5v.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/J2ncPHX"><img max-height="400" width="350" src="https://i.imgur.com/J2ncPHX.jpg"></a>
 <!-- programmer_humor_img ends -->
 
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
