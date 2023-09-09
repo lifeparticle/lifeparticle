@@ -7,7 +7,9 @@
 
 <div align="right">
  
-<kbd> <br> [binarytree.dev](https://binarytree.dev) <br> </kbd>
+<a href="https://binarytree.dev/" target="_blank">
+  <img src="https://github.com/lifeparticle/lifeparticle/assets/1612112/1d8a455a-1d86-4ce6-9512-143bbace665c" alt="binary tree logo" height="70" align="right"/>
+</a>
 
 </div>
 
