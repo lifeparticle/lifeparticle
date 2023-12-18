@@ -75,28 +75,40 @@
 
 <div align="center">
 
-| URL      |
+| Web/Front-end         |
+| ----------- |
+| [HTML-Cheatsheet](https://github.com/lifeparticle/HTML-Cheatsheet)                                 |
+| [CSS-Cheatsheet](https://github.com/lifeparticle/CSS-Cheatsheet)                                   |
+| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)                                     |
+
+| Back-end      |
 | ----------- |
 | [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)                                 |
 | [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)                             |
-| [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet)                                     |
 | [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)                                 |
 | [C-Sharp-Cheatsheet](https://github.com/lifeparticle/C-Sharp-Cheatsheet)                           |
 | [PHP-Cheatsheet](https://github.com/lifeparticle/PHP-Cheatsheet)                                   |
-| [CSS-Cheatsheet](https://github.com/lifeparticle/CSS-Cheatsheet)                                   |
-| [HTML-Cheatsheet](https://github.com/lifeparticle/HTML-Cheatsheet)                                 |
-| [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)                         |
+
+| Database         |
+| ----------- |
 | [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)                                   |
 | [PostgreSql-Snippets](https://github.com/lifeparticle/PostgreSql-Snippets)                         |
 | [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)                             |
 | [Microsoft-SQL-Server-Cheatsheet](https://github.com/lifeparticle/Microsoft-SQL-Server-Cheatsheet) |
 | [GraphQL-Cheatsheet](https://github.com/lifeparticle/GraphQL-Cheatsheet)                           |
-| [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)                                 |
+
+| Platform         |
+| ----------- |
 | [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)                             |
+| [GitHub-Cheatsheet](https://github.com/lifeparticle/GitHub-Cheatsheet)                             |
+
+| Others         |
+| ----------- |
+| [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)                         |
+| [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)                                 |
 | [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                                   |
 | [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)       |
-| [GitHub-Cheatsheet](https://github.com/lifeparticle/GitHub-Cheatsheet)                             |
-    
+
 </div>
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
