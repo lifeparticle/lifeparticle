@@ -27,7 +27,7 @@ def update_programmer_humor_img(name):
         else:
             print("Not enough credits remaining to make request.")
             
-        return create_imgur_link("SV767tT", "SV767tT")
+        return create_imgur_link("SV767tT", "https://imgur.com/r/ProgrammerHumor/SV767tT")
 
     except ImgurClientError as e:
         print(e.error_message)
