@@ -50,7 +50,7 @@
 
 <h3 align="center"> Starter Templates </h3>
 
-- [ReactJS starter template with Ant Design](https://github.com/lifeparticle/reactjs-starter-template-antd)
+- [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
 
 
 [<img align="left" src="https://gist-count.vercel.app/api?username=lifeparticle" alt="public gists">][gist]
