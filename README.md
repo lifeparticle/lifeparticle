@@ -64,7 +64,7 @@
 
 <div align="center">
      
-| Bot Name    | Status      |
+| <h4>Bot Name</h4>    | <h4>Status</h4>      |
 | ----------- | ----------- |
 | [Profile Bot](https://github.com/lifeparticle/lifeparticle/blob/master/build_readme.py)          | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
 | [Twitter Tweet Bot](https://github.com/lifeparticle/twitter-tweet-bot/blob/main/build_json.py)   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
