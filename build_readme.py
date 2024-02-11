@@ -15,6 +15,22 @@ root = pathlib.Path(__file__).parent.resolve()
 def create_imgur_link(id, link):
     return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img max-height="400" width="350" src="{}"></a>'.format(id, link)
 
+def check_image_exists(imgur_client_id, image_id):
+    headers = {
+        'Authorization': f'Client-ID {imgur_client_id}'
+    }
+    url = f'https://api.imgur.com/3/image/{image_id}'
+
+    try:
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            return True
+        else:
+            return False
+    except requests.exceptions.RequestException as e:
+        print(f"An error occurred: {e}")
+        return False
+        
 def update_programmer_humor_img(name):
     try:
         client = ImgurClient(os.environ['CLIENT_ID'], os.environ['CLIENT_SECRET'])
@@ -23,7 +39,12 @@ def update_programmer_humor_img(name):
             items = client.subreddit_gallery(name, sort="top", window="week", page=0)
             for item in items:
                 if not item.link.endswith((".mp4", ".gif")):
-                    return create_imgur_link(item.id, item.link)
+                    exists = check_image_exists(os.environ['CLIENT_ID'], item.id)
+                    if exists:
+                        return create_imgur_link(item.id, item.link)
+                    else:
+                        print("Image does not exist.")
+                        continue
         else:
             print("Not enough credits remaining to make request.")
             
