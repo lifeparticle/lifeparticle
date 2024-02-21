@@ -52,8 +52,11 @@
 
 - [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
 
+[![pr](https://img.shields.io/badge/Pull%20Request-grey?logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aclosed+author%3Alifeparticle&type=pullrequests)
+
 
 [<img align="left" src="https://gist-count.vercel.app/api?username=lifeparticle" alt="public gists">][gist]
+
 
 </td>
 
