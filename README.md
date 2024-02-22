@@ -56,28 +56,28 @@
 <table>
 <tr>
 <td>
+
+<div align="center">
  
 [![pr](https://img.shields.io/badge/Closed-32C754?label=Pull%20Requests&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aclosed+author%3Alifeparticle&type=pullrequests)
 
 [![pr](https://img.shields.io/badge/Open-ff9a00?label=Pull%20Requests&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Alifeparticle&type=pullrequests)
 
+</div>
 </td>
 <td>
+
+<div align="center">
  
 [![issue](https://img.shields.io/badge/Closed-32C754?label=Issues&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Aissue%20is%3Aclosed%20author%3Alifeparticle&type=issues)
 
 [![issue](https://img.shields.io/badge/Open-ff9a00?label=Issues&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Aissue+is%3Aopen++author%3Alifeparticle&type=issues)
+</div>
 </td>
 </tr>
 </table>
  
-
-
-
-
-
 [<img align="left" src="https://gist-count.vercel.app/api?username=lifeparticle" alt="public gists">][gist]
-
 
 </td>
 
