@@ -52,7 +52,13 @@
 
 - [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
 
-[![pr](https://img.shields.io/badge/Pull%20Request-grey?logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aclosed+author%3Alifeparticle&type=pullrequests)
+[![pr](https://img.shields.io/badge/Closed%20Pull%20Request-grey?logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aclosed+author%3Alifeparticle&type=pullrequests)
+
+[![pr](https://img.shields.io/badge/Open%20Pull%20Request-grey?logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Alifeparticle&type=pullrequests)
+
+[![issue](https://img.shields.io/badge/Closed%20Issues-grey?logo=pull%20request)](https://github.com/search?q=is%3Aissue%20is%3Aclosed%20author%3Alifeparticle&type=issues)
+
+[![issue](https://img.shields.io/badge/Open%20Issues-grey?logo=pull%20request)](https://github.com/search?q=is%3Aissue+is%3Aopen++author%3Alifeparticle&type=issues)
 
 
 [<img align="left" src="https://gist-count.vercel.app/api?username=lifeparticle" alt="public gists">][gist]
