@@ -73,7 +73,7 @@
 </tr>
 </table>
  
-[<img align="left" src="https://gist-count.vercel.app/api?username=lifeparticle" alt="public gists">][gist]
+[![Github gists](https://gist-count.vercel.app/api?username=lifeparticle)](https://gist.github.com/lifeparticle)
 
 </td>
 
