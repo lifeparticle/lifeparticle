@@ -147,7 +147,8 @@
 <!-- programmer_humor_img ends -->
 
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
-![](https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=313131&label=views)
+![](https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=313131&label=views) ![Static Badge](https://img.shields.io/badge/Since%20Jul%205%2C%202023-white?color=30363C)
+
      
 [linktree]: https://linktr.ee/lifeparticle
 [gist]: https://gist.github.com/lifeparticle
