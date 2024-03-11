@@ -23,6 +23,7 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
+* [How to Navigate Your Software Development Career](https://levelup.gitconnected.com/how-to-navigate-your-software-development-career-b2f05f398672?source=rss-4430950b9342------2) <br/> <sub>2024-03-11</sub>
 * [Efficient Way to Develop Your ReactJS Project Using Scaffdog](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) <br/> <sub>2024-01-08</sub>
 * [A Time-Saving Guide to Creating a React.js Project from Scratch](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
 * [How To Deploy a React Application to GitHub Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) <br/> <sub>2023-06-30</sub>
@@ -32,7 +33,6 @@
 * [How to Deploy a React Application to Render](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-render-611ef3aca84a?source=rss-4430950b9342------2) <br/> <sub>2022-11-25</sub>
 * [How to Automate Your Daily Workflow Using NeoKey Trinkey](https://medium.com/geekculture/how-to-automate-your-daily-workflow-using-neokey-trinkey-7a619597f0e7?source=rss-4430950b9342------2) <br/> <sub>2022-09-04</sub>
 * [How to Create a React Application With Deno](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
-* [How to Create a React Application Using Vite](https://javascript.plainenglish.io/how-to-create-a-react-application-using-vite-cc3e9910a3f3?source=rss-4430950b9342------2) <br/> <sub>2022-07-28</sub>
 <!-- blog ends -->
      
 <h3 align="center"> Dev Setup </h3>
