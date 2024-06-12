@@ -147,16 +147,29 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true#gh-dark-mode-only" width="350" align="right" />
 </a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=highcontrast&hide_border=true" width="350" /></a>
+
+<a href="https://git.io/streak-stats#gh-light-mode-only">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=graywhite#gh-light-mode-only" width="350" /></a>
+</div>
+<a href="https://git.io/streak-stats#gh-dark-mode-only">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=dark#gh-dark-mode-only" width="350" /></a>
 </div>
 
 <!-- programmer_humor_img starts -->
 <a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
 <!-- programmer_humor_img ends -->
 
-[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
-![](https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=313131&label=views) ![Static Badge](https://img.shields.io/badge/Since%20Jul%205%2C%202023-white?color=30363C)
+[<img height="auto" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@12.2.0/icons/linktree.svg" />][linktree]
+[![Count Badge][count-dark]](count#gh-dark-mode-only)
+[![Count Badge][count-light]](count#gh-light-mode-only)
+[![Date Badge][date-dark]](date#gh-dark-mode-only)
+[![Date Badge][date-light]](date#gh-light-mode-only)
 
+[count-dark]: https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=ffffff&label=views#gh-dark-mode-only
+[count-light]: https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=000000&label=views#gh-light-mode-only
+
+[date-dark]: https://img.shields.io/badge/Since%20Jul%205%2C%202023-white?color=30363C#gh-dark-mode-only
+[date-light]: https://img.shields.io/badge/Since%20Jul%205%2C%202023-black?color=ffffff#gh-light-mode-only
      
 [linktree]: https://linktr.ee/lifeparticle
 [gist]: https://gist.github.com/lifeparticle
