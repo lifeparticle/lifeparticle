@@ -159,7 +159,13 @@
 <a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
 <!-- programmer_humor_img ends -->
 
-[<img height="auto" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@12.2.0/icons/linktree.svg" />][linktree]
+<a href="https://linktr.ee/lifeparticle#gh-light-mode-only">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@12.2.0/icons/linktree.svg#gh-light-mode-only" width="24" align="right" />
+</a>
+<a href="https://linktr.ee/lifeparticle#gh-dark-mode-only">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@12.2.0/icons/linktree.svg/white#gh-dark-mode-only" width="24" align="right" />
+</a>
+
 [![Count Badge][count-dark]](count#gh-dark-mode-only)
 [![Count Badge][count-light]](count#gh-light-mode-only)
 [![Date Badge][date-dark]](date#gh-dark-mode-only)
