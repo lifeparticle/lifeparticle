@@ -160,10 +160,10 @@
 <!-- programmer_humor_img ends -->
 
 <a href="https://linktr.ee/lifeparticle#gh-light-mode-only">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@12.2.0/icons/linktree.svg#gh-light-mode-only" width="24" align="right" />
+  <img src="https://cdn.simpleicons.org/linktree/black#gh-light-mode-only" width="24" align="right" />
 </a>
 <a href="https://linktr.ee/lifeparticle#gh-dark-mode-only">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@12.2.0/icons/linktree.svg/white#gh-dark-mode-only" width="24" align="right" />
+  <img src="https://cdn.simpleicons.org/linktree/white#gh-dark-mode-only" width="24" align="right" />
 </a>
 
 [![Count Badge][count-dark]](count#gh-dark-mode-only)
