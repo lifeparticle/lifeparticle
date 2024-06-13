@@ -164,7 +164,8 @@
   <img src="https://cdn.simpleicons.org/linktree/white#gh-dark-mode-only" width="24" align="right" />
 </a>
 
-[![Github gists](https://gist-count.vercel.app/api?username=lifeparticle)](https://gist.github.com/lifeparticle)
+[![Github gists](https://gist-count.vercel.app/api?username=lifeparticle#gh-dark-mode-only)](https://gist.github.com/lifeparticle#gh-dark-mode-only)
+[![Github gists](https://gist-count.vercel.app/api?username=lifeparticle&theme=light#gh-light-mode-only)](https://gist.github.com/lifeparticle#gh-light-mode-only)
 [![Count Badge][count-dark]](count#gh-dark-mode-only)
 [![Count Badge][count-light]](count#gh-light-mode-only)
 [![Date Badge][date-dark]](date#gh-dark-mode-only)
