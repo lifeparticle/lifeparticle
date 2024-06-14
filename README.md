@@ -171,8 +171,8 @@
 [![Date Badge][date-dark]](date#gh-dark-mode-only)
 [![Date Badge][date-light]](date#gh-light-mode-only)
 
-[count-dark]: https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=lightgrey&label=Profile%20views#gh-dark-mode-only
-[count-light]: https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=lightgrey&label=Profile%20views#gh-light-mode-only
+[count-dark]: https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=lightgrey&label=Profile%20Views#gh-dark-mode-only
+[count-light]: https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=lightgrey&label=Profile%20Views#gh-light-mode-only
 
 [date-dark]: https://img.shields.io/badge/Since-Jul,_2023-lightgrey#gh-light-mode-only
 [date-light]: https://img.shields.io/badge/Since-Jul,_2023-lightgrey#gh-light-mode-only
