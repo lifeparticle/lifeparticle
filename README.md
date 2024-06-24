@@ -154,7 +154,7 @@
 </div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/nas3ovI"><img max-height="400" width="350" src="https://i.imgur.com/nas3ovI.png"></a>
 <!-- programmer_humor_img ends -->
 
 <a href="https://linktr.ee/lifeparticle#gh-light-mode-only">
