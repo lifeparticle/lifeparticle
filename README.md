@@ -37,23 +37,6 @@
 * [How to Automate Your Daily Workflow Using NeoKey Trinkey](https://medium.com/geekculture/how-to-automate-your-daily-workflow-using-neokey-trinkey-7a619597f0e7?source=rss-4430950b9342------2) <br/> <sub>2022-09-04</sub>
 <!-- blog ends -->
      
-<h3 align="center"> Dev Setup </h3>
-
-<div align="left">
-
-- [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)
-- [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)
-- [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)
-- [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)
-- [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers)
-
-<!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
-</div>
-
-<h3 align="center"> Starter Templates </h3>
-
-- [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
-
 <h3 align="center"> Stat </h3>
 
 <table>
@@ -74,15 +57,10 @@
 </td>
 </tr>
 </table>
- 
-</td>
-
-     
-<td width="50%" valign="top">
 
 <h3 align="center"> Bots </h3>
 
-<div align="center">
+<div align="left">
      
 | Bot Name    | Status      |
 | ----------- |:-----------:|
@@ -90,6 +68,28 @@
 | [Twitter Tweet Bot](https://github.com/lifeparticle/twitter-tweet-bot/blob/main/build_json.py)   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
 
 </div>
+ 
+</td>
+
+     
+<td width="50%" valign="top">
+
+<h3 align="center"> Dev Setup </h3>
+
+<div align="left">
+
+- [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)
+- [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)
+- [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)
+- [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)
+- [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers)
+
+<!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
+</div>
+
+<h3 align="center"> Starter Templates </h3>
+
+- [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
 
 <h3 align="center"> Cheatsheets </h3>
 
