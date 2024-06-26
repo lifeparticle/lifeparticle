@@ -39,24 +39,14 @@
      
 <h3 align="center"> Stat </h3>
 
-<table>
-<tr>
-<td align="center">
+<div align="left">
+     
+| Name    | Status      |
+| ----------- |:-----------:|
+| Pull requests        | [![pr](https://img.shields.io/badge/Closed-32C754?label=Pull%20Requests&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aclosed+author%3Alifeparticle&type=pullrequests) <br> [![pr](https://img.shields.io/badge/Open-ff9a00?label=Pull%20Requests&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Alifeparticle&type=pullrequests) |
+| Issues   | [![issue](https://img.shields.io/badge/Closed-32C754?label=Issues&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Aissue%20is%3Aclosed%20author%3Alifeparticle&type=issues) <br> [![issue](https://img.shields.io/badge/Open-ff9a00?label=Issues&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Aissue+is%3Aopen++author%3Alifeparticle&type=issues) |
 
-[![pr](https://img.shields.io/badge/Closed-32C754?label=Pull%20Requests&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aclosed+author%3Alifeparticle&type=pullrequests)
-
-[![pr](https://img.shields.io/badge/Open-ff9a00?label=Pull%20Requests&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Alifeparticle&type=pullrequests)
-
-</td>
-<td align="center">
- 
-[![issue](https://img.shields.io/badge/Closed-32C754?label=Issues&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Aissue%20is%3Aclosed%20author%3Alifeparticle&type=issues)
-
-[![issue](https://img.shields.io/badge/Open-ff9a00?label=Issues&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Aissue+is%3Aopen++author%3Alifeparticle&type=issues)
-
-</td>
-</tr>
-</table>
+</div>
 
 <h3 align="center"> Bots </h3>
 
