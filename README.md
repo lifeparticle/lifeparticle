@@ -18,6 +18,8 @@
 
 </div>
 
+I create open-source developer productivity tools and write technical articles, intending to streamline and enhance workflow.
+
 <table>
 <tr>
 <td width="50%" valign="top">
