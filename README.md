@@ -120,7 +120,8 @@ I create open-source developer productivity tools and write technical articles, 
 - [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)                         
 - [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)                                 
 - [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                                   
-- [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)            
+- [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)
+- [LaTeX-Cheatsheet](https://github.com/lifeparticle/LaTeX-Cheatsheet)         
 
 </div>
 
