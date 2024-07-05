@@ -18,8 +18,8 @@
 </div>
 
 <pre>My name is Zaman, and I am a computer engineer with a strong focus on user experience and a deep understanding of
-business needs. I specialize in creating open-source developer productivity tools <sub><a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" /></a></sub> and writing
-technical articles, aiming to streamline workflows and enhance efficiency.</pre> 
+business needs. I specialize in creating open-source developer productivity tools <sub><a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" /></a></sub> and
+writing technical articles, aiming to streamline workflows and enhance efficiency.</pre> 
 
 <table>
 <tr>
