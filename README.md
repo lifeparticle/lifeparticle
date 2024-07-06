@@ -19,7 +19,7 @@
 
 <pre>I'm Zaman, and I am a computer engineer with a strong focus on user experience and a deep understanding of
 business needs. I specialize in creating open-source developer productivity tools <sub><a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" /></a></sub>
-and writing technical articles, aiming to streamline workflows and enhance efficiency.</pre> 
+and writing technical articles <sub><a href="https://medium.com/@lifeparticle"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a></sub>, aiming to streamline workflows and enhance efficiency. </pre> 
 
 <table>
 <tr>
