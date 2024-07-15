@@ -148,7 +148,7 @@ and writing technical articles <sub><a href="https://medium.com/@lifeparticle"><
 </div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/8Pvfp42"><img max-height="400" width="350" src="https://i.imgur.com/8Pvfp42.jpg"></a>
 <!-- programmer_humor_img ends -->
 
 <a href="https://linktr.ee/lifeparticle#gh-light-mode-only">
