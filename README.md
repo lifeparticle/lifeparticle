@@ -151,11 +151,11 @@ and writing technical articles <sub><a href="https://medium.com/@lifeparticle"><
 <a href="https://imgur.com/r/ProgrammerHumor/8Pvfp42"><img max-height="400" width="350" src="https://i.imgur.com/8Pvfp42.jpg"></a>
 <!-- programmer_humor_img ends -->
 
-<a href="https://linktr.ee/lifeparticle#gh-light-mode-only">
-  <img src="https://cdn.simpleicons.org/linktree/black#gh-light-mode-only" width="24" align="right" />
+<a href="https://mahbub.ninja#gh-light-mode-only">
+  <img src="https://img.shields.io/badge/Portfolio-lightgrey#gh-light-mode-only" width="24" align="right" />
 </a>
-<a href="https://linktr.ee/lifeparticle#gh-dark-mode-only">
-  <img src="https://cdn.simpleicons.org/linktree/white#gh-dark-mode-only" width="24" align="right" />
+<a href="https://mahbub.ninja#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/Portfolio-lightgrey#gh-dark-mode-only" width="24" align="right" />
 </a>
 
 [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle#gh-dark-mode-only)](https://gist.github.com/lifeparticle#gh-dark-mode-only)
@@ -171,6 +171,6 @@ and writing technical articles <sub><a href="https://medium.com/@lifeparticle"><
 [date-dark]: https://img.shields.io/badge/Since-Jul,_2023-lightgrey#gh-light-mode-only
 [date-light]: https://img.shields.io/badge/Since-Jul,_2023-lightgrey#gh-light-mode-only
      
-[linktree]: https://linktr.ee/lifeparticle
+[portfolio]: https://mahbub.ninja/
 [gist]: https://gist.github.com/lifeparticle
 [aurthohin]: https://github.com/lifeparticle/Aurthohin
