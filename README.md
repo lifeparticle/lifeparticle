@@ -152,10 +152,10 @@ and writing technical articles <sub><a href="https://medium.com/@lifeparticle"><
 <!-- programmer_humor_img ends -->
 
 <a href="https://mahbub.ninja#gh-light-mode-only">
-  <img src="https://img.shields.io/badge/Portfolio-lightgrey#gh-light-mode-only" width="24" align="right" />
+  <img src="https://img.shields.io/badge/Portfolio Website-lightgrey#gh-light-mode-only" align="right" />
 </a>
 <a href="https://mahbub.ninja#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/Portfolio-lightgrey#gh-dark-mode-only" width="24" align="right" />
+  <img src="https://img.shields.io/badge/Portfolio Website-lightgrey#gh-dark-mode-only" align="right" />
 </a>
 
 [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle#gh-dark-mode-only)](https://gist.github.com/lifeparticle#gh-dark-mode-only)
