@@ -150,13 +150,6 @@ and write technical articles <sub><a href="https://medium.com/@lifeparticle"><im
 <a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
 <!-- programmer_humor_img ends -->
 
-<a href="https://mahbub.ninja#gh-light-mode-only">
-  <img src="https://img.shields.io/badge/Portfolio Website-lightgrey#gh-light-mode-only" align="right" />
-</a>
-<a href="https://mahbub.ninja#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/Portfolio Website-lightgrey#gh-dark-mode-only" align="right" />
-</a>
-
 [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle#gh-dark-mode-only)](https://gist.github.com/lifeparticle#gh-dark-mode-only)
 [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle#gh-light-mode-only)](https://gist.github.com/lifeparticle#gh-light-mode-only)
 [![Count Badge][count-dark]](count#gh-dark-mode-only)
