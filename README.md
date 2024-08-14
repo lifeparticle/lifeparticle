@@ -120,21 +120,6 @@ and write technical articles <sub><a href="https://medium.com/@lifeparticle"><im
 
 </table>
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=graywhite&show_icons=true&hide_title=true#gh-light-mode-only" width="350" align="right" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true&hide_title=true#gh-dark-mode-only" width="350" align="right" />
-</a>
-
-<a href="https://git.io/streak-stats#gh-light-mode-only">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=graywhite#gh-light-mode-only" width="350" /></a>
-</div>
-<a href="https://git.io/streak-stats#gh-dark-mode-only">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=dark#gh-dark-mode-only" width="350" /></a>
-</div>
-
 <!-- programmer_humor_img starts -->
 <a href="https://imgur.com/r/ProgrammerHumor/fkSeIxN"><img max-height="400" width="350" src="https://i.imgur.com/fkSeIxN.jpg"></a>
 <!-- programmer_humor_img ends -->
