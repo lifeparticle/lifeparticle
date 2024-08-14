@@ -147,7 +147,7 @@ and write technical articles <sub><a href="https://medium.com/@lifeparticle"><im
 </div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/fkSeIxN"><img max-height="400" width="350" src="https://i.imgur.com/fkSeIxN.jpg"></a>
 <!-- programmer_humor_img ends -->
 
 [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle#gh-dark-mode-only)](https://gist.github.com/lifeparticle#gh-dark-mode-only)
