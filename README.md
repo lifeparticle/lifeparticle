@@ -3,7 +3,7 @@
 <!-- Continuous Improvement Programme - CIP -->
 
 <div>
-<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="left">
+<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello"/>
 <!-- https://cyber.dabamos.de/88x31/hell0.gif -->
 
 <pre>I'm Zaman, and I am a computer engineer. I create open-source developer productivity tools​ <sub><a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" /></a></sub>
