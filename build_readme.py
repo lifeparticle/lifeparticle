@@ -103,7 +103,7 @@ if __name__ == "__main__":
         first_five_posts = posts[:5]
         
         # markdown formatting
-        posts_md = "\n\n".join(
+        posts_md = "\n".join(
             [
                 "• [{title}]({link}) — {pubDate}".format(**post)
                 for post in first_five_posts
