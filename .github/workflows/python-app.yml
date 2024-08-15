@@ -32,6 +32,20 @@ jobs:
       env:
           CLIENT_ID: ${{secrets.CLIENT_ID}}
           CLIENT_SECRET: ${{secrets.CLIENT_SECRET}}
+    
+    - name: Commit and push after update
+      run: |-
+        git diff
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        git add -A
+        git commit -m "Updated content after README update" || exit 0
+        git push
+
+    - name: Generate README.md
+      uses: teoxoy/profile-readme-stats@v3
+      with:
+        token: ${{ secrets.USER_TOKEN }}
           
     - name: Commit and push if changed
       run: |-
