@@ -11,7 +11,7 @@ Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised *
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="60%" valign="top">
 
 <div align="center"> <b>My Latest Medium Posts</b> </div>
 
@@ -28,7 +28,7 @@ Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised *
 </td>
 
      
-<td width="30%" valign="top">
+<td width="40%" valign="top">
 
 <div align="center"> <b>Helpful Repos</b> </div>
 
