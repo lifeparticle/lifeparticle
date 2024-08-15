@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello"/>
 <!-- https://cyber.dabamos.de/88x31/hell0.gif -->
 
-Since I became a member of GitHub **12** years ago, I've made **6652** commits, raised **450** issues, submitted **103** pull requests, earned **1201** stars across **123** personal projects, and contributed to **14** public repositories.
+Since I became a member of GitHub **12** years ago, I've made **6653** commits, raised **450** issues, submitted **103** pull requests, earned **1201** stars across **123** personal projects, and contributed to **14** public repositories.
 
 <table>
 <tr>
@@ -35,10 +35,10 @@ Since I became a member of GitHub **12** years ago, I've made **6652** commits, 
 
 <div align="left">
 
-• [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)
-• [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)
-• [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)
-• [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)
+• [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)</br>
+• [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)</br>
+• [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)</br>
+• [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)</br>
 • [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers)
 
 <!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
@@ -46,7 +46,7 @@ Since I became a member of GitHub **12** years ago, I've made **6652** commits, 
 
 <div align="center"> <b>Starter Templates</b> </div>
 
-- [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
+• [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
 
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
