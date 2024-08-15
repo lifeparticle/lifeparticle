@@ -9,13 +9,13 @@
 <img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello"/>
 <!-- https://cyber.dabamos.de/88x31/hell0.gif -->
 
-Since I became a member of GitHub **12** years ago, I've made **6822** commits, raised **451** issues, submitted **103** pull requests, earned **1182** stars across **147** personal projects, and contributed to **14** public repositories.
+Since I became a member of GitHub **12** years ago, I've made **6823** commits, raised **451** issues, submitted **103** pull requests, earned **1182** stars across **147** personal projects, and contributed to **14** public repositories.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center"> <b>My Latest Medium Posts</b> </div>
+<h3 align="center"> My Latest Medium Posts </h3>
 
 <!-- blog starts -->
 • [How to Make HTTP Requests in a Tauri Desktop App Using JavaScript Fetch](https://levelup.gitconnected.com/how-to-make-http-requests-in-a-tauri-desktop-app-using-javascript-fetch-0820dc39271b?source=rss-4430950b9342------2) — 2024-06-03</br>
@@ -32,22 +32,22 @@ Since I became a member of GitHub **12** years ago, I've made **6822** commits, 
      
 <td width="50%" valign="top">
 
-<div align="center"> <b>Dev Setup</b> </div>
+<h3 align="center"> Dev Setup </h3>
 
 <div align="left">
 
-• [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)</br>
-• [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)</br>
-• [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)</br>
-• [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)</br>
-• [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers)
+- [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)
+- [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)
+- [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)
+- [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)
+- [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers)
 
 <!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
 </div>
 
 <h3 align="center"> Starter Templates </h3>
 
-• [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
+- [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
 
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
