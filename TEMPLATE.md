@@ -5,8 +5,7 @@
 
 <a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" align="right" /></a>
 
-<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello"/>
-<!-- https://cyber.dabamos.de/88x31/hell0.gif -->
+### HiHi
 
 Since I became a member of GitHub **{{ ACCOUNT_AGE }}** years ago, I've made **{{ COMMITS }}** commits, raised **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, earned **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
