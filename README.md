@@ -7,7 +7,7 @@
 
 ### HiHi
 
-Since I became a member of GitHub, I've made **6656** commits, raised **450** issues, submitted **103** pull requests, earned **1202** stars across **123** personal projects, and contributed to **14** public repositories.
+Since I became a member of GitHub, I've made **6658** commits, raised **450** issues, submitted **103** pull requests, earned **1202** stars across **123** personal projects, and contributed to **14** public repositories.
 
 <table>
 <tr>
@@ -30,23 +30,17 @@ Since I became a member of GitHub, I've made **6656** commits, raised **450** is
      
 <td width="50%" valign="top">
 
-<div align="center"> <b>Dev Setup</b> </div>
+<div align="center"> <b>Helpful Repos</b> </div>
 
 <div align="left">
 
-• [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)</br>
-• [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)</br>
-• [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)</br>
-• [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)</br>
-• [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers)
+• [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)</br>
+• [Twitter-Tweet-Bot](https://github.com/lifeparticle/twitter-tweet-bot)</br>
+• [Tauri-Examples](https://github.com/lifeparticle/tauri-examples)</br>
+• [Gist-Count](https://github.com/lifeparticle/Gist-Count)</br>
+• [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)
 
-<!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
 </div>
-
-<div align="center"> <b>Starter Templates</b> </div>
-
-• [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
-
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 </td>
