@@ -42,7 +42,6 @@ Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised *
 
 </div>
 
-![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 </td>
 </tr>
 
