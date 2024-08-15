@@ -5,9 +5,8 @@
 
 ### HiHi
 
-Since I became a member of GitHub, I've made **6665** commits, raised **450** issues, submitted **103** pull requests, earned **1203** stars across **123** personal projects, and contributed to **14** public repositories.
+Since I became a member of GitHub, I've made **6666** commits, raised **450** issues, submitted **103** pull requests, earned **1203** stars across **123** personal projects, and contributed to **14** public repositories.
 
-<a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" /></a>
 
 <table>
 <tr>
@@ -51,12 +50,14 @@ Since I became a member of GitHub, I've made **6665** commits, raised **450** is
 <a href="https://imgur.com/r/ProgrammerHumor/fkSeIxN"><img max-height="400" width="350" src="https://i.imgur.com/fkSeIxN.jpg"></a>
 <!-- programmer_humor_img ends -->
 
+<a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" /></a>
 [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle#gh-dark-mode-only)](https://gist.github.com/lifeparticle#gh-dark-mode-only)
 [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle#gh-light-mode-only)](https://gist.github.com/lifeparticle#gh-light-mode-only)
 [![Count Badge][count-dark]](count#gh-dark-mode-only)
 [![Count Badge][count-light]](count#gh-light-mode-only)
 [![Date Badge][date-dark]](date#gh-dark-mode-only)
 [![Date Badge][date-light]](date#gh-light-mode-only)
+
 
 [count-dark]: https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=lightgrey&label=Profile%20Views#gh-dark-mode-only
 [count-light]: https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=lightgrey&label=Profile%20Views#gh-light-mode-only
