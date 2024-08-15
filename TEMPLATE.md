@@ -35,10 +35,10 @@ Since I became a member of GitHub **{{ ACCOUNT_AGE }}** years ago, I've made **{
 
 <div align="left">
 
-• [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)
-• [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)
-• [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)
-• [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)
+• [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)</br>
+• [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)</br>
+• [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)</br>
+• [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)</br>
 • [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers)
 
 <!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
@@ -46,7 +46,7 @@ Since I became a member of GitHub **{{ ACCOUNT_AGE }}** years ago, I've made **{
 
 <div align="center"> <b>Starter Templates</b> </div>
 
-- [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
+• [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
 
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
