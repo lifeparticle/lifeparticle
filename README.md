@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello"/>
 <!-- https://cyber.dabamos.de/88x31/hell0.gif -->
 
-Since I became a member of GitHub **12** years ago, I've made **6820** commits, raised **451** issues, submitted **103** pull requests, earned **1182** stars across **147** personal projects, and contributed to **14** public repositories.
+Since I became a member of GitHub **12** years ago, I've made **6821** commits, raised **451** issues, submitted **103** pull requests, earned **1182** stars across **147** personal projects, and contributed to **14** public repositories.
 
 <table>
 <tr>
@@ -19,13 +19,9 @@ Since I became a member of GitHub **12** years ago, I've made **6820** commits, 
 
 <!-- blog starts -->
 • [How to Make HTTP Requests in a Tauri Desktop App Using JavaScript Fetch](https://levelup.gitconnected.com/how-to-make-http-requests-in-a-tauri-desktop-app-using-javascript-fetch-0820dc39271b?source=rss-4430950b9342------2) — 2024-06-03
-
 • [How to Navigate Your Software Development Career](https://levelup.gitconnected.com/how-to-navigate-your-software-development-career-b2f05f398672?source=rss-4430950b9342------2) — 2024-03-11
-
 • [Efficient Way to Develop Your ReactJS Project Using Scaffdog](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) — 2024-01-08
-
 • [A Time-Saving Guide to Creating a React.js Project from Scratch](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) — 2023-12-19
-
 • [How To Deploy a React Application to GitHub Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) — 2023-06-30
 <!-- blog ends -->
      
