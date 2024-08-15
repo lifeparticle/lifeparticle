@@ -97,15 +97,19 @@ if __name__ == "__main__":
     posts = fetch_blog_posts(
         "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@lifeparticle"
     )
+    
     if len(posts) != 0:
+        # Take the first 5 posts
+        first_five_posts = posts[:5]
+        
         # markdown formatting
         posts_md = "\n".join(
             [
                 "* [{title}]({link}) <br/> <sub>{pubDate}</sub>".format(**post)
-                for post in posts
+                for post in first_five_posts
             ]
         )
-
+    
         rewritten = replace_chunk(rewritten, "blog", posts_md)
 
     readme.open("w").write(rewritten)
