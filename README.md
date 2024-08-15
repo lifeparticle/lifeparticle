@@ -3,11 +3,11 @@
 
 <div>
 
-<a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" align="right" /></a>
-
 ### HiHi
 
-Since I became a member of GitHub, I've made **6664** commits, raised **450** issues, submitted **103** pull requests, earned **1203** stars across **123** personal projects, and contributed to **14** public repositories.
+Since I became a member of GitHub, I've made **6665** commits, raised **450** issues, submitted **103** pull requests, earned **1203** stars across **123** personal projects, and contributed to **14** public repositories.
+
+<a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" /></a>
 
 <table>
 <tr>
