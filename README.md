@@ -7,11 +7,11 @@
 
 ### HiHi
 
-Since I became a member of GitHub, I've made **6660** commits, raised **450** issues, submitted **103** pull requests, earned **1203** stars across **123** personal projects, and contributed to **14** public repositories.
+Since I became a member of GitHub, I've made **6661** commits, raised **450** issues, submitted **103** pull requests, earned **1203** stars across **123** personal projects, and contributed to **14** public repositories.
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="60%" valign="top">
 
 <div align="center"> <b>My Latest Medium Posts</b> </div>
 
@@ -28,7 +28,7 @@ Since I became a member of GitHub, I've made **6660** commits, raised **450** is
 </td>
 
      
-<td width="30%" valign="top">
+<td width="40%" valign="top">
 
 <div align="center"> <b>Helpful Repos</b> </div>
 
