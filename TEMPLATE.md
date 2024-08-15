@@ -7,7 +7,7 @@
 
 ### HiHi
 
-Since I became a member of GitHub **{{ ACCOUNT_AGE }}** years ago, I've made **{{ COMMITS }}** commits, raised **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, earned **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, earned **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 <table>
 <tr>
