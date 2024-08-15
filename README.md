@@ -13,7 +13,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"> My latest Medium posts </h3>
+<h3 align="center"> My Latest Medium Posts </h3>
 
 <!-- blog starts -->
 * [How to Make HTTP Requests in a Tauri Desktop App Using JavaScript Fetch](https://levelup.gitconnected.com/how-to-make-http-requests-in-a-tauri-desktop-app-using-javascript-fetch-0820dc39271b?source=rss-4430950b9342------2) — 2024-06-03
