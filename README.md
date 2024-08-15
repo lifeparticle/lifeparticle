@@ -16,11 +16,11 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
-* [How to Make HTTP Requests in a Tauri Desktop App Using JavaScript Fetch](https://levelup.gitconnected.com/how-to-make-http-requests-in-a-tauri-desktop-app-using-javascript-fetch-0820dc39271b?source=rss-4430950b9342------2) <br/> <sub>2024-06-03</sub>
-* [How to Navigate Your Software Development Career](https://levelup.gitconnected.com/how-to-navigate-your-software-development-career-b2f05f398672?source=rss-4430950b9342------2) <br/> <sub>2024-03-11</sub>
-* [Efficient Way to Develop Your ReactJS Project Using Scaffdog](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) <br/> <sub>2024-01-08</sub>
-* [A Time-Saving Guide to Creating a React.js Project from Scratch](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
-* [How To Deploy a React Application to GitHub Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) <br/> <sub>2023-06-30</sub>
+* [How to Make HTTP Requests in a Tauri Desktop App Using JavaScript Fetch](https://levelup.gitconnected.com/how-to-make-http-requests-in-a-tauri-desktop-app-using-javascript-fetch-0820dc39271b?source=rss-4430950b9342------2) — <sub>2024-06-03</sub>
+* [How to Navigate Your Software Development Career](https://levelup.gitconnected.com/how-to-navigate-your-software-development-career-b2f05f398672?source=rss-4430950b9342------2) — <sub>2024-03-11</sub>
+* [Efficient Way to Develop Your ReactJS Project Using Scaffdog](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) — <sub>2024-01-08</sub>
+* [A Time-Saving Guide to Creating a React.js Project from Scratch](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) — <sub>2023-12-19</sub>
+* [How To Deploy a React Application to GitHub Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) — <sub>2023-06-30</sub>
 <!-- blog ends -->
      
 
