@@ -7,7 +7,7 @@
 
 ### HiHi
 
-Since I became a member of GitHub, I've made **6662** commits, raised **450** issues, submitted **103** pull requests, earned **1203** stars across **123** personal projects, and contributed to **14** public repositories.
+Since I became a member of GitHub, I've made **6663** commits, raised **450** issues, submitted **103** pull requests, earned **1203** stars across **123** personal projects, and contributed to **14** public repositories.
 
 <table>
 <tr>
@@ -28,7 +28,7 @@ Since I became a member of GitHub, I've made **6662** commits, raised **450** is
 </td>
 
      
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center"> <b>Helpful Repos</b> </div>
 
