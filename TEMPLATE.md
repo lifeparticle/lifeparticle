@@ -28,7 +28,7 @@ Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised *
 </td>
 
      
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 <div align="center"> <b>Helpful Repos</b> </div>
 
