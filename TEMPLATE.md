@@ -35,9 +35,9 @@ Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised *
 <div align="left">
 
 • [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)</br>
-• [Twitter-Tweet-Bot](https://github.com/lifeparticle/twitter-tweet-bot)
-• [Tauri-Examples](https://github.com/lifeparticle/tauri-examples)
-• [Gist-Count](https://github.com/lifeparticle/Gist-Count)
+• [Twitter-Tweet-Bot](https://github.com/lifeparticle/twitter-tweet-bot)</br>
+• [Tauri-Examples](https://github.com/lifeparticle/tauri-examples)</br>
+• [Gist-Count](https://github.com/lifeparticle/Gist-Count)</br>
 • [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)
 
 </div>
