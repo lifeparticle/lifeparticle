@@ -84,7 +84,7 @@ def fetch_blog_posts(link):
 
 
 if __name__ == "__main__":
-    readme = root / "README.md"
+    readme = root / "TEMPLATE.md"
 
     readme_contents = readme.open().read()
     rewritten = readme_contents
