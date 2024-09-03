@@ -5,7 +5,7 @@
 
 ### Hi Hi
 
-Since I became a member of GitHub, I've made **6790** commits, raised **459** issues, submitted **106** pull requests, earned **1236** stars across **124** personal projects, and contributed to **16** public repositories.
+Since I became a member of GitHub, I've made **6791** commits, raised **459** issues, submitted **106** pull requests, earned **1236** stars across **124** personal projects, and contributed to **16** public repositories.
 
 
 <table>
@@ -68,7 +68,3 @@ Since I became a member of GitHub, I've made **6790** commits, raised **459** is
 [portfolio]: https://mahbub.ninja/
 [gist]: https://gist.github.com/lifeparticle
 [aurthohin]: https://github.com/lifeparticle/Aurthohin
-
-Sponsored by:
-
-<a href="https://arreal.company/"><img height="40" src="https://github.com/user-attachments/assets/b914fef7-f50f-4404-84de-e18fd4e90f7f"></a>
