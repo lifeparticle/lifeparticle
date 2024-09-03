@@ -68,3 +68,7 @@ Since I became a member of GitHub, I've made **6790** commits, raised **459** is
 [portfolio]: https://mahbub.ninja/
 [gist]: https://gist.github.com/lifeparticle
 [aurthohin]: https://github.com/lifeparticle/Aurthohin
+
+Sponsored by:
+
+<a href="https://arreal.company/"><img height="40" src="https://github.com/user-attachments/assets/b914fef7-f50f-4404-84de-e18fd4e90f7f"></a>
