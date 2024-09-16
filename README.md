@@ -5,7 +5,7 @@
 
 ### Hi Hi
 
-Since I became a member of GitHub, I've made **6804** commits, raised **459** issues, submitted **109** pull requests, earned **1251** stars across **126** personal projects, and contributed to **17** public repositories.
+Since I became a member of GitHub, I've made **6825** commits, raised **460** issues, submitted **116** pull requests, earned **1265** stars across **126** personal projects, and contributed to **20** public repositories.
 
 
 <table>
@@ -47,7 +47,7 @@ Since I became a member of GitHub, I've made **6804** commits, raised **459** is
 </table>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/lOeMQVm"><img max-height="400" width="350" src="https://i.imgur.com/lOeMQVm.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/hNcU53R"><img max-height="400" width="350" src="https://i.imgur.com/hNcU53R.png"></a>
 <!-- programmer_humor_img ends -->
 
 <a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" /></a>
