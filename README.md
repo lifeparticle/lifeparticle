@@ -5,7 +5,7 @@
 
 ### Hi Hi
 
-Since I became a member of GitHub, I've made **5858** commits, raised **457** issues, submitted **237** pull requests, earned **1517** stars across **124** personal projects, and contributed to **25** public repositories.
+Since I became a member of GitHub, I've made **5952** commits, raised **457** issues, submitted **260** pull requests, earned **1520** stars across **124** personal projects, and contributed to **25** public repositories.
 
 
 <table>
@@ -47,7 +47,7 @@ Since I became a member of GitHub, I've made **5858** commits, raised **457** is
 </table>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/5kjMROS"><img max-height="400" width="350" src="https://i.imgur.com/5kjMROS.png"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/L9C34o0"><img max-height="400" width="350" src="https://i.imgur.com/L9C34o0.png"></a>
 <!-- programmer_humor_img ends -->
 
 <a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" /></a>
@@ -57,14 +57,19 @@ Since I became a member of GitHub, I've made **5858** commits, raised **457** is
 [![Count Badge][count-light]](count#gh-light-mode-only)
 [![Date Badge][date-dark]](date#gh-dark-mode-only)
 [![Date Badge][date-light]](date#gh-light-mode-only)
+[![Microsoft Badge][learn.microsoft-dark]](https://learn.microsoft.com/en-us/users/mahbubzaman/achievements?tab=tab-modules#gh-dark-mode-only)
+[![Microsoft Badge][learn.microsoft-dark]](https://learn.microsoft.com/en-us/users/mahbubzaman/achievements?tab=tab-modules#gh-light-mode-only)
 
 
 [count-dark]: https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=lightgrey&label=Profile%20Views#gh-dark-mode-only
 [count-light]: https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=lightgrey&label=Profile%20Views#gh-light-mode-only
 
-[date-dark]: https://img.shields.io/badge/Since-Jul,_2023-lightgrey#gh-light-mode-only
+[date-dark]: https://img.shields.io/badge/Since-Jul,_2023-lightgrey#gh-dark-mode-only
 [date-light]: https://img.shields.io/badge/Since-Jul,_2023-lightgrey#gh-light-mode-only
-     
+
+[learn.microsoft-dark]: https://img.shields.io/badge/learn.microsoft-achievements-lightgrey#gh-dark-mode-only
+[learn.microsoft-light]: https://img.shields.io/badge/learn.microsoft-achievements-lightgrey#gh-light-mode-only
+
 [portfolio]: https://mahbub.ninja/
 [gist]: https://gist.github.com/lifeparticle
 [aurthohin]: https://github.com/lifeparticle/Aurthohin
