@@ -29,15 +29,14 @@ Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised *
      
 <td width="35%" valign="top">
 
-<div align="center"> <b>Helpful Repos</b> </div>
+<div align="center"> <b>Productivity tools</b> </div>
 
 <div align="left">
 
-• [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)</br>
-• [Twitter-Tweet-Bot](https://github.com/lifeparticle/twitter-tweet-bot)</br>
-• [Tauri-Examples](https://github.com/lifeparticle/tauri-examples)</br>
-• [Gist-Count](https://github.com/lifeparticle/Gist-Count)</br>
-• [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)
+<sup> • SelectStar</sup> <a href="https://github.com/lifeparticle/SelectStar"><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png"></a> <a href="https://selectstar.netlify.app/"><img height="28" alt="external-link" src="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2" /></a> </br>
+<sup> • ModelAtlas</sup> <a href="https://modelatlas.netlify.app/"><img height="28" alt="external-link" src="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2" /></a>
+
+
 
 </div>
 
