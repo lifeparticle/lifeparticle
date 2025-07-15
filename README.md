@@ -5,7 +5,7 @@
 
 ### Hi Hi
 
-Since I became a member of GitHub, I've made **6472** commits, raised **458** issues, submitted **413** pull requests, earned **1557** stars across **131** personal projects, and contributed to **25** public repositories.
+Since I became a member of GitHub, I've made **6478** commits, raised **459** issues, submitted **414** pull requests, earned **1557** stars across **131** personal projects, and contributed to **25** public repositories.
 
 
 <table>
@@ -28,14 +28,52 @@ Since I became a member of GitHub, I've made **6472** commits, raised **458** is
 
 
 
+
 <td width="35%" valign="top">
+
 
 <div align="center"> <b>Productivity tools</b> </div>
 
 <div align="left">
-<sup> • BinaryTree</sup> <a href="https://github.com/lifeparticle/binarytree"><img height="28" src="https://github.com/user-attachments/assets/0a1eb17d-2b12-46c5-82f6-a0dc727fe713"></a> <a href="https://binarytree.dev/"><img height="28" alt="external-link" src="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2" /></a> </br>
-<sup> • SelectStar</sup> <a href="https://github.com/lifeparticle/SelectStar"><img height="28" src="https://github.com/user-attachments/assets/0a1eb17d-2b12-46c5-82f6-a0dc727fe713"></a> <a href="https://selectstar.netlify.app/"><img height="28" alt="external-link" src="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2" /></a> </br>
-<sup> • ModelAtlas</sup> <a href="https://modelatlas.netlify.app/"><img height="28" alt="external-link" src="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2" /></a>
+<sup> • BinaryTree</sup> 
+     <a href="https://github.com/lifeparticle/binarytree">
+          <picture>
+               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/43c0016b-8cb2-4816-a583-1777c39ae61e">
+               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0a1eb17d-2b12-46c5-82f6-a0dc727fe713">
+               <img alt="BinaryTree" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
+          </picture>
+     </a>
+     <a href="https://binarytree.dev/">
+          <picture>
+               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c5fe7c60-b979-45ae-87cb-b568f24c8d4f">
+               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2">
+               <img alt="BinaryTree" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
+          </picture>
+     </a>
+</br>
+<sup> • SelectStar</sup>
+     <a href="https://github.com/lifeparticle/SelectStar">
+          <picture>
+               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/43c0016b-8cb2-4816-a583-1777c39ae61e">
+               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0a1eb17d-2b12-46c5-82f6-a0dc727fe713">
+               <img alt="BinaryTree" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
+          </picture>
+     </a>
+     <a href="https://selectstar.netlify.app/">
+          <picture>
+               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c5fe7c60-b979-45ae-87cb-b568f24c8d4f">
+               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2">
+               <img alt="BinaryTree" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
+          </picture>
+     </a> </br>
+<sup> • ModelAtlas</sup>
+     <a href="https://modelatlas.netlify.app/">
+          <picture>
+               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c5fe7c60-b979-45ae-87cb-b568f24c8d4f">
+               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2">
+               <img alt="BinaryTree" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
+          </picture>
+     </a>
 
 
 
