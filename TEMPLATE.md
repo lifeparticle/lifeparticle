@@ -114,4 +114,4 @@ Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised *
 
 Sponsored by:
 
-<a href="https://arreal.company/"><img height="40" src="https://github.com/user-attachments/assets/b914fef7-f50f-4404-84de-e18fd4e90f7f"></a>
+<a href="https://arreal.company/"><img height="40" src="https://github.com/user-attachments/assets/e55343ac-03df-48d5-983f-1ac6d9ffa0c7"></a>
