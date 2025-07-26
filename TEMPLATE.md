@@ -56,22 +56,29 @@ Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised *
           <picture>
                <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/43c0016b-8cb2-4816-a583-1777c39ae61e">
                <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0a1eb17d-2b12-46c5-82f6-a0dc727fe713">
-               <img alt="BinaryTree" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
+               <img alt="SelectStar" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
           </picture>
      </a>
      <a href="https://selectstar.netlify.app/">
           <picture>
                <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c5fe7c60-b979-45ae-87cb-b568f24c8d4f">
                <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2">
-               <img alt="BinaryTree" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
+               <img alt="SelectStar" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
           </picture>
      </a> </br>
 <sup> • ModelAtlas</sup>
+      <a href="https://github.com/lifeparticle/ModelAtlas-Meta">
+          <picture>
+               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/43c0016b-8cb2-4816-a583-1777c39ae61e">
+               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0a1eb17d-2b12-46c5-82f6-a0dc727fe713">
+               <img alt="ModelAtlas" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
+          </picture>
+     </a>
      <a href="https://modelatlas.netlify.app/">
           <picture>
                <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c5fe7c60-b979-45ae-87cb-b568f24c8d4f">
                <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2">
-               <img alt="BinaryTree" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
+               <img alt="ModelAtlas" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
           </picture>
      </a>
 
