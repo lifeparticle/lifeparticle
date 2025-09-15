@@ -92,7 +92,7 @@ Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised *
 </table>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/95HSfsl"><img max-height="400" width="350" src="https://i.imgur.com/95HSfsl.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/j7UMOSR"><img max-height="400" width="350" src="https://i.imgur.com/j7UMOSR.png"></a>
 <!-- programmer_humor_img ends -->
 
 <a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" /></a>
