@@ -5,7 +5,7 @@
 
 ### Hi Hi
 
-Since I became a member of GitHub, I've made **7689** commits, raised **472** issues, submitted **680** pull requests, earned **1681** stars across **136** personal projects, and contributed to **20** public repositories.
+Since I became a member of GitHub, I've made **6268** commits, raised **472** issues, submitted **225** pull requests, earned **1684** stars across **136** personal projects, and contributed to **8** public repositories.
 
 
 <table>
