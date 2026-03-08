@@ -36,7 +36,7 @@ def update_programmer_humor_img(name):
         client = ImgurClient(os.environ['CLIENT_ID'], os.environ['CLIENT_SECRET'])
         credits = client.credits
         if credits["UserRemaining"] > 0:
-            items = client.subreddit_gallery(name, sort="top", window="day", page=0)
+            items = client.subreddit_gallery(name, sort="top", window="week", page=0)
             for item in items:
                 if not item.link.endswith((".mp4", ".gif")):
                     exists = check_image_exists(os.environ['CLIENT_ID'], item.id)
