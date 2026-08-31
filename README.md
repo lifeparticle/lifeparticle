@@ -4,92 +4,14 @@
 <div>
 
 <!-- programmer_humor_img starts -->
-
 <a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img align="right" max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
-
 <!-- programmer_humor_img ends -->
 
 ### Hi Hi
 
-Since I became a member of GitHub, I've made **6532** commits, raised **493** issues, submitted **216** pull requests, earned **1748** stars across **140** personal projects, and contributed to **0** public repositories.
+Since I became a member of GitHub, I've made **6541** commits, raised **493** issues, submitted **216** pull requests, earned **1749** stars across **140** personal projects, and contributed to **0** public repositories.
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-<div align="center"> <b>My Latest Medium Posts</b> </div>
-
-<!-- blog starts -->
-
-• [How to Make HTTP Requests in a Tauri Desktop App Using JavaScript Fetch](https://levelup.gitconnected.com/how-to-make-http-requests-in-a-tauri-desktop-app-using-javascript-fetch-0820dc39271b?source=rss-4430950b9342------2)</br>
-• [How to Navigate Your Software Development Career](https://levelup.gitconnected.com/how-to-navigate-your-software-development-career-b2f05f398672?source=rss-4430950b9342------2)</br>
-• [Efficient Way to Develop Your ReactJS Project Using Scaffdog](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2)</br>
-• [A Time-Saving Guide to Creating a React.js Project from Scratch](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2)</br>
-• [How To Deploy a React Application to GitHub Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2)</br>
-
-<!-- blog ends -->
-
-</td>
-
-<td width="35%" valign="top">
-
-<div align="center"> <b>Productivity tools</b> </div>
-
-<div align="left">
-<sup> • BinaryTree</sup>
-     <a href="https://binarytree.dev/">
-          <picture>
-               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c5fe7c60-b979-45ae-87cb-b568f24c8d4f">
-               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2">
-               <img alt="BinaryTree" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
-          </picture>
-     </a> </br>
-<sup> • SelectStar</sup>
-     <a href="https://github.com/lifeparticle/SelectStar">
-          <picture>
-               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/43c0016b-8cb2-4816-a583-1777c39ae61e">
-               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0a1eb17d-2b12-46c5-82f6-a0dc727fe713">
-               <img alt="SelectStar" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
-          </picture>
-     </a>
-     <a href="https://selectstar.netlify.app/">
-          <picture>
-               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c5fe7c60-b979-45ae-87cb-b568f24c8d4f">
-               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2">
-               <img alt="SelectStar" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
-          </picture>
-     </a> </br>
-<sup> • ModelAtlas</sup>
-      <a href="https://github.com/lifeparticle/ModelAtlas-Meta">
-          <picture>
-               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/43c0016b-8cb2-4816-a583-1777c39ae61e">
-               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0a1eb17d-2b12-46c5-82f6-a0dc727fe713">
-               <img alt="ModelAtlas" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
-          </picture>
-     </a>
-     <a href="https://modelatlas.netlify.app/">
-          <picture>
-               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c5fe7c60-b979-45ae-87cb-b568f24c8d4f">
-               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/43604249-dba0-45ee-8786-224c909cd1e2">
-               <img alt="ModelAtlas" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
-          </picture>
-     </a> </br>
-     <sup> • BinaryTree (Archived)</sup>
-     <a href="https://github.com/lifeparticle/binarytree">
-          <picture>
-               <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/43c0016b-8cb2-4816-a583-1777c39ae61e">
-               <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0a1eb17d-2b12-46c5-82f6-a0dc727fe713">
-               <img alt="BinaryTree" src="https://github.com/lifeparticle/lifeparticle/blob/master/gh_social_light.png" width="28">
-          </picture>
-     </a>
-</br>
-
-</div>
-
-</td>
-</tr>
-
-</table>
+<a href="https://binarytree.dev/"><img src="binarytree_cta.svg" alt="BinaryTree — binarytree.dev" width="120" height="96"></a>
 
 <a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" /></a>
 [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle#gh-dark-mode-only)](https://gist.github.com/lifeparticle#gh-dark-mode-only)
