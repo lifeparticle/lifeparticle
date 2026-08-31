@@ -13,7 +13,6 @@ Since I became a member of GitHub, I've made **6543** commits, raised **493** is
 
 <a href="https://binarytree.dev/"><img src="binarytree_cta.svg" alt="BinaryTree — binarytree.dev" width="120" height="96"></a>
 
-<a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" /></a>
 [![Count Badge][count-dark]](count#gh-dark-mode-only)
 [![Count Badge][count-light]](count#gh-light-mode-only)
 
