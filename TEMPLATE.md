@@ -8,9 +8,7 @@
 Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, earned **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 <!-- programmer_humor_img starts -->
-
 <a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
-
 <!-- programmer_humor_img ends -->
 
 <a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" /></a>
