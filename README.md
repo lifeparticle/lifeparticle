@@ -3,10 +3,13 @@
 
 <div>
 
+<!-- programmer_humor_img starts -->
+<a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img align="right" max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
+<!-- programmer_humor_img ends -->
+
 ### Hi Hi
 
 Since I became a member of GitHub, I've made **6532** commits, raised **493** issues, submitted **216** pull requests, earned **1748** stars across **140** personal projects, and contributed to **0** public repositories.
-
 
 <table>
 <tr>
@@ -91,10 +94,6 @@ Since I became a member of GitHub, I've made **6532** commits, raised **493** is
 </tr>
 
 </table>
-
-<!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
-<!-- programmer_humor_img ends -->
 
 <a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" /></a>
 [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle#gh-dark-mode-only)](https://gist.github.com/lifeparticle#gh-dark-mode-only)

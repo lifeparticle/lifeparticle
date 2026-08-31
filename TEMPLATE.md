@@ -3,15 +3,17 @@
 
 <div>
 
+<!-- programmer_humor_img starts -->
+
+<a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img align="right" max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
+
+<!-- programmer_humor_img ends -->
+
 ### Hi Hi
 
 Since I became a member of GitHub, I've made **{{ COMMITS }}** commits, raised **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, earned **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-<!-- programmer_humor_img starts -->
-
-<a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
-
-<!-- programmer_humor_img ends -->
+<a href="https://binarytree.dev/"><img src="binarytree_cta.svg" alt="BinaryTree — binarytree.dev" width="120" height="96"></a>
 
 <a href="https://user-badge.committers.top/australia/lifeparticle"><img src="https://user-badge.committers.top/australia/lifeparticle.svg" alt="committers" /></a>
 [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle#gh-dark-mode-only)](https://gist.github.com/lifeparticle#gh-dark-mode-only)

@@ -13,7 +13,7 @@ import os
 root = pathlib.Path(__file__).parent.resolve()
 
 def create_imgur_link(id, link):
-    return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img max-height="400" width="350" src="{}"></a>'.format(id, link)
+    return '<a href="https://imgur.com/r/ProgrammerHumor/{}"><img align="right" max-height="400" width="350" src="{}"></a>'.format(id, link)
 
 def check_image_exists(imgur_client_id, image_id):
     headers = {

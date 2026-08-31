@@ -1,0 +1,53 @@
+<svg width="140" height="112" viewBox="0 0 140 112" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BinaryTree — binarytree.dev">
+  <title>BinaryTree — binarytree.dev</title>
+  <defs>
+    <style>
+      svg {
+        --btn-top: #322f2a;
+        --btn-mid: #13110e;
+        --btn-bottom: #0e0c0a;
+        --btn-text: #faf9f6;
+      }
+      @media (prefers-color-scheme: dark) {
+        svg {
+          --btn-top: #ffffff;
+          --btn-mid: #f3f2ef;
+          --btn-bottom: #e2e0dc;
+          --btn-text: #0a0907;
+        }
+      }
+      .btn { fill: url(#btnGrad); }
+      .dot { fill: var(--btn-text); }
+      .mark { fill: var(--btn-text); }
+      .icon { stroke: var(--btn-text); stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    </style>
+    <linearGradient id="btnGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="var(--btn-top)"/>
+      <stop offset="35%" stop-color="var(--btn-mid)"/>
+      <stop offset="100%" stop-color="var(--btn-bottom)"/>
+    </linearGradient>
+    <filter id="btnShadow" x="-80%" y="-80%" width="260%" height="280%">
+      <feDropShadow dx="0" dy="9" stdDeviation="9" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+    <pattern id="btnDots" width="11" height="11" patternUnits="userSpaceOnUse">
+      <circle class="dot" cx="1.4" cy="1.4" r="1.4" opacity="0.55"/>
+    </pattern>
+    <clipPath id="btnClip">
+      <rect x="20" y="14" width="100" height="72" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <a href="https://binarytree.dev/" target="_blank" rel="noopener">
+    <rect class="btn" x="20" y="14" width="100" height="72" rx="22" filter="url(#btnShadow)"/>
+    <rect x="20" y="14" width="100" height="72" fill="url(#btnDots)" opacity="0.1" clip-path="url(#btnClip)"/>
+
+    <g transform="translate(43,36) scale(0.018)">
+      <path class="mark" d="M1162.39,373.87l-272.3-157.22l-44.63-25.82l-46.88-27.03c-48.47-28.01-108.69-28.01-157.16,0L277.55,373.87C229.14,401.82,199,454,199,509.96V930.1c0,55.96,30.14,108.08,78.55,136.09l363.87,210.07c24.29,13.94,51.39,20.95,78.55,20.95c27.22,0,54.37-7,78.61-20.95l32.45-18.69l44.63-25.82l286.73-165.56c48.53-28.01,78.61-80.13,78.61-136.09V509.96C1241,454,1210.92,401.82,1162.39,373.87z M837.67,549.54l-106.19,93.1l106.19,93.04v128.48L658.23,706.88l-73.31-64.24l73.31-64.24l179.44-157.28V549.54z M536.39,420.82c-34.71,20.03-56.26,57.36-56.26,97.48v420.14c0,40.07,21.55,77.39,56.26,97.42l294.64,170.12l-44.57,25.76l-10.17,5.91c-34.71,20.03-77.82,20.03-112.58,0L299.9,1027.58c-34.71-20.03-56.26-57.42-56.26-97.48V509.96c0-40.06,21.56-77.45,56.26-97.48l363.81-210.07c17.41-10.05,36.84-15.04,56.26-15.04c19.48,0,38.97,4.99,56.32,15.04l24.6,14.25l44.57,25.7L536.39,420.82z M1070.14,861.66L890.7,1018.94V890.46l106.19-93.1L890.7,704.32V575.84l179.44,157.34l73.31,64.18L1070.14,861.66z"/>
+    </g>
+
+    <g transform="translate(79,40) scale(0.7)">
+      <path class="icon" d="M7 7h10v10"/>
+      <path class="icon" d="M7 17 17 7"/>
+    </g>
+  </a>
+</svg>
