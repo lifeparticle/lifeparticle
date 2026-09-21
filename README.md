@@ -4,12 +4,12 @@
 <div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/SV767tT"><img align="right" max-height="400" width="350" src="https://i.imgur.com/SV767tT.png"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/nvXz5YR"><img align="right" max-height="400" width="350" src="https://i.imgur.com/nvXz5YR.png"></a>
 <!-- programmer_humor_img ends -->
 
 ### Hi Hi
 
-Since joining GitHub, I've made **6631** commits, raised **493** issues, and submitted **216** pull requests — earning **1751** stars across **139** personal projects. [Work with me](https://mahbub.ninja/about).
+Since joining GitHub, I've made **6689** commits, raised **493** issues, and submitted **216** pull requests — earning **1753** stars across **140** personal projects. [Work with me](https://mahbub.ninja/about).
 
 <a href="https://binarytree.dev/"><img src="binarytree_cta.svg" alt="BinaryTree — binarytree.dev" width="120" height="96"></a>
 
