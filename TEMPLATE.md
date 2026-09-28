@@ -4,7 +4,7 @@
 <div>
 
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/nvXz5YR"><img align="right" max-height="400" width="350" src="https://i.imgur.com/nvXz5YR.png"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/r5g2HNT"><img align="right" max-height="400" width="350" src="https://i.imgur.com/r5g2HNT.png"></a>
 <!-- programmer_humor_img ends -->
 
 ### Hi Hi
