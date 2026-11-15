@@ -9,11 +9,7 @@
 
 ### Hi Hi
 
-<<<<<<< HEAD
 Since joining GitHub, I've made **6545** commits, raised **493** issues, and submitted **216** pull requests — earning **1749** stars across **140** personal projects and contributing to **0** public repositories. [See what I’m building at binarytree](https://binarytree.dev/about).
-=======
-Since joining GitHub, I've made **6974** commits, raised **493** issues, and submitted **216** pull requests — earning **1764** stars across **143** personal projects. [Work with me](https://mahbub.ninja/about).
->>>>>>> 5b065c91930e1d87164f54980c0eb7ff82955092
 
 <a href="https://binarytree.dev/"><img src="binarytree_dot.svg" alt="binarytree — binarytree.dev" width="48" height="48"></a>
 
