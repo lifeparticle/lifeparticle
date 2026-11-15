@@ -11,9 +11,9 @@
 
 ### Hi Hi
 
-Since joining GitHub, I've made **{{ COMMITS }}** commits, raised **{{ ISSUES }}** issues, and submitted **{{ PULL_REQUESTS }}** pull requests — earning **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects. [Work with me](https://mahbub.ninja/about).
+Since joining GitHub, I've made **{{ COMMITS }}** commits, raised **{{ ISSUES }}** issues, and submitted **{{ PULL_REQUESTS }}** pull requests — earning **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects. [See what I’m building at binarytree](https://binarytree.dev/about).
 
-<a href="https://binarytree.dev/"><img src="binarytree_cta.svg" alt="BinaryTree — binarytree.dev" width="120" height="96"></a>
+<a href="https://binarytree.dev/"><img src="binarytree_dot.svg" alt="binarytree — binarytree.dev" width="48" height="48"></a>
 
 [![Count Badge][count-dark]](count#gh-dark-mode-only)
 [![Count Badge][count-light]](count#gh-light-mode-only)
